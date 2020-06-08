@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: kvcm.live
-subtitle: "2.0 alpha"
+subtitle: "2.0α"
 email: kvcmlive@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -27,7 +27,7 @@ search: true
 
 # header config
 logo: "/assets/images/widelogo.png"
-masthead_title: ""
+masthead_title: " "
 
 # Build settings
 markdown: kramdown
