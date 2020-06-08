@@ -25,6 +25,10 @@ twitter_username: kvcmlive
 minimal_mistakes_skin: default
 search: true
 
+# header config
+logo: "/assets/images/widelogo.png"
+masthead_title: ""
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
