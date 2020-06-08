@@ -1,8 +1,8 @@
 ---
 title: Shows
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /shows/
+collection: shows
 entries_layout: grid
 classes: wide
 ---
