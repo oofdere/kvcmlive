@@ -216,6 +216,17 @@
     }
   }
   
+  .archive__item-teaser {
+    @include breakpoint($small) {
+      height: 25%;
+    }
+
+    @include breakpoint($medium) {
+      max-height: 20%;
+    }
+  }
+
+
   /*
      Features
      ========================================================================== */
