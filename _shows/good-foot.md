@@ -1,6 +1,6 @@
 ---
 title: "The Good Foot"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Get on The Good Foot with Bosco Bonetti for the best in soul, funk, old-school R&B, with a bit of gospel and jazz stirred into the mix."
 header:
   teaser: /assets/images/TheGoodFoot_Bosco.png
 sidebar:
