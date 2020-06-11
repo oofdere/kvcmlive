@@ -3,6 +3,8 @@ title: "Home"
 layout: default
 ---
 
+<script src= "https://player.twitch.tv/js/embed/v1.js"></script>
+
 <style>
 .twitch .twitch-video {
   padding-top: 56.25%;
@@ -48,23 +50,19 @@ layout: default
 </style>
 
 <div class="twitch">
-  <div class="twitch-video">
-    <iframe
-      src="https://player.twitch.tv/?channel=kvcmradio&autoplay=false"
-      frameborder="0"
-      scrolling="no"
-      allowfullscreen="true"
-      height="100%"
-      width="100%">
-    </iframe>
+  <div class="twitch-video" id="video">
   </div>
-  <div class="twitch-chat">
-    <iframe
-      frameborder="0"
-      scrolling="no"
-      src="https://www.twitch.tv/embed/kvcmradio/chat"
-      height="100%"
-      width="100%">
-    </iframe>
+  <div class="twitch-chat" id="chat">
   </div>
 </div>
+
+<script type="text/javascript">
+  var options = {
+    width: "100%",
+    height: "100%",
+    channel: "kvcmradio",
+    parent: ["github.io", "kvcm.live"]
+  };
+  var player = new Twitch.Player("video", options);
+  player.setVolume(0.5);
+</script>
