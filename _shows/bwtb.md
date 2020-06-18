@@ -1,5 +1,6 @@
 ---
 title: "Breakfast With the Beatles"
+excerpt: ""
 header:
   teaser: /assets/images/bwtb.jpg
 sidebar:

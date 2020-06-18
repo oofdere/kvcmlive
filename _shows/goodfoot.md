@@ -8,11 +8,10 @@ sidebar:
   - title: "6AM & 6PM Weekdays"
   - title: "Genres"
     text: "Soul, Funk, R&B"
-    image_alt: "logo"
-links:
-  - label: "Made Mistakes"
-    icon: "fab fa-mixcloud"
-    url: "https://www.mixcloud.com/BoscoBonetti/playlists/the-good-foot/"
+  - links:
+    - label: "Listen on Mixcloud"
+      icon: "fab fa-mixcloud"
+      url: "https://www.mixcloud.com/BoscoBonetti/playlists/the-good-foot/"
 ---
 
 Get on The Good Foot with Bosco Bonetti for the best in soul, funk, old-school R&B, with a bit of gospel and jazz stirred into the mix.
