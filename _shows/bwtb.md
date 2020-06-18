@@ -6,7 +6,7 @@ sidebar:
   - image: /assets/images/bwtb.jpg
   - title: "10AM SAT & SUN"
   - title: "Genres"
-    text: "Soul, Funk, R&B"
+    text: "Oldies"
     image_alt: "logo"
 ---
 
