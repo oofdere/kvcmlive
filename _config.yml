@@ -99,6 +99,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _shows
+  - scope:
+      path: ""
+      type: shows
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
@@ -121,3 +129,8 @@ social:
     - "https://twitch.tv/kvcmlive"
     - "https://twitter.com/kvcmlive"
     - "https://instagram.com/kvcmlive"
+
+collections:
+  shows:
+    output: true
+    permalink: /:collection/:path/
