@@ -91,7 +91,7 @@
   overflow: hidden;
 
   img {
-    width: 100%;
+    width: 250px;
   }
 }
 
@@ -217,11 +217,11 @@
 
   .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: 220px;
+      max-height: 250px;
     }
 
     @include breakpoint($medium) {
-      max-height: 220px;
+      max-height: 250px;
     }
   }
 }
