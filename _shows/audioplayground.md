@@ -8,7 +8,7 @@ sidebar:
   - title: "2-6 AM & PM Weekdays"
   - title: "12AM Sat & Sun"
   - title: "Genres"
-    text: "Experimental"
+    text: "Talk, Rock, Soul, Disco"
 ---
 
 Step on the Audio Playground with the Professor and his best Broadcasting students for a live one-hour radio show consisting of ideas, thoughts, stories, and music.
