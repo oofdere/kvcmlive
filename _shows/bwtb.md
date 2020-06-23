@@ -2,9 +2,9 @@
 title: "Breakfast With the Beatles"
 excerpt: ""
 header:
-  teaser: /assets/images/bwtb.jpg
+  teaser: /assets/images/bwtb.png
 sidebar:
-  - image: /assets/images/bwtb.jpg
+  - image: /assets/images/bwtb.png
   - title: "10AM SAT & SUN"
   - title: "Genres"
     text: "Oldies"
