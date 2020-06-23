@@ -1,5 +1,5 @@
 ---
-title: "The Audio Playground"
+title: "Music Motif"
 excerpt: ""
 header:
   teaser: /assets/images/musicmotif.png
