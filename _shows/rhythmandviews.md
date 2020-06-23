@@ -11,5 +11,3 @@ sidebar:
 ---
 
 Rhythm and Views is a 50/50 talk and music radio show hosted by Dr. Lovey, a doctor of behavioral health and integrated health and human services educator. The rhythms are Neo-Soul/Alternative R&B and the Views in Focus cover a broad scope of trending bio-psycho-socio-political topics... which is just about anything & everything. For song requests, topic suggestions, or to join in on the discussion, you can leave an audio or video message on Duo at [dr.lovey.rv@gmail.com](mailto:dr.lovey.rv@gmail.com)
-
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FBoscoBonetti%2F" frameborder="0" ></iframe>
