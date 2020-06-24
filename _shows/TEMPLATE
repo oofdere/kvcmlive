@@ -1,0 +1,13 @@
+---
+title: "Title"
+excerpt: ""
+header:
+  teaser: /assets/images/ImageName
+sidebar:
+  - image: /assets/images/ImageName
+  - title: "TimeSlot"
+  - title: "Genres"
+    text: "GenreList"
+---
+
+Description
