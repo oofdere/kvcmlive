@@ -2,9 +2,9 @@
 title: "The Audio Playground"
 excerpt: ""
 header:
-  teaser: /assets/images/jason.jpeg
+  teaser: /assets/images/audioplayground.png
 sidebar:
-  - image: /assets/images/jason.jpeg
+  - image: /assets/images/audioplayground.png
   - title: "2-6 AM & PM Weekdays"
   - title: "12AM Sat & Sun"
   - title: "Genres"
