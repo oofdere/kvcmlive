@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/audioplayground.png
 sidebar:
   - image: /assets/images/audioplayground.png
-  - title: "2-6 AM & PM Weekdays"
+  - title: "9AM & 9PM Weekdays"
   - title: "12AM Sat & Sun"
   - title: "Genres"
     text: "Talk, Rock, Soul, Disco"
