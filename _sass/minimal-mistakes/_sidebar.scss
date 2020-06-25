@@ -180,6 +180,7 @@
 }
 
 .author__urls-wrapper {
+  visibility: collapse;
   position: relative;
   display: table-cell;
   vertical-align: middle;
@@ -233,7 +234,6 @@
 }
 
 .author__urls {
-  visibility: collapse;
   display: none;
   position: absolute;
   right: 0;
