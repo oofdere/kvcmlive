@@ -17,7 +17,7 @@ title: "Staff"
 
 **Sports Director:** Tori Leach
 
-**Video Editor** - Robyn Carmona
+**Video Editor:** Robyn Carmona
 
 **PSA Director:** John
 
