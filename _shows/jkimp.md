@@ -1,5 +1,5 @@
 ---
-title: "Just Keep It Movin'... Powerfully!"
+title: "Just Keep It Movin'... <i>Powerfully!</i>"
 excerpt: ""
 header:
   teaser: /assets/images/jkimp.jpg
