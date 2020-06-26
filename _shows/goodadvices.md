@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/goodadvices.png
 sidebar:
   - image: /assets/images/goodadvices.png
-  #- title: "TimeSlot"
+  - title: "5AM & 5 PM Sat & Sun"
   - title: "Genres"
     text: "Talk, Advice, Adult Humor"
 ---
