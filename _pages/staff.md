@@ -9,7 +9,7 @@ title: "Staff"
 
 **Production Director:** Ozzie Flamenco
 
-**Assistant Production Director:** Remy
+**Assistant Program Director:** Remy
 
 **Music Director:** Lisa Guitar
 
