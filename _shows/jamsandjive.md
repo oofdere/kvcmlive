@@ -5,6 +5,7 @@ header:
   teaser: /assets/images/jamsandjive.png
 sidebar:
   - image: /assets/images/jamsandjive.png
+  - title: "5AM & 5PM Weekdays
   - title: "Genres"
     text: "Talk, Eclectic"
 ---
