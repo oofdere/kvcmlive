@@ -13,7 +13,7 @@ title: "Staff"
 
 **Music Director:** Lisa Guitar
 
-**News Director:** Ron
+**News Director:** Ron Ski
 
 **Sports Director:** Tori Leach
 
