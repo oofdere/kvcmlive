@@ -5,8 +5,8 @@ permalink: /shows/
 collection: shows
 entries_layout: grid
 classes: wide2
-sidebar: 
-  - title: Schedule
+#sidebar: 
+#  - title: Schedule
     text: >- # this means to ignore newlines until "baseurl:"
       |             | **Weekday DJ Line-Up**            |
       | ----------- | --------------------------------- |
