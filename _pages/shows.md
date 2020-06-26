@@ -4,7 +4,7 @@ layout: collection
 permalink: /shows/
 collection: shows
 entries_layout: grid
-classes: wide
+classes: wide2
 sidebar: 
   - title: Schedule
     text: >- # this means to ignore newlines until "baseurl:"
