@@ -5,4 +5,4 @@ permalink: /shows/
 collection: shows
 entries_layout: grid
 classes: wide2
-
+---
