@@ -7,9 +7,9 @@ title: "Staff"
 
 **Operations Manager/Creative Director:** Bosco Bonetti
 
-**Social Media Director:** Emily Ayala
-
 **Production Director:** Ozzie Flamenco
+
+**Assistant Production Director:** Remy
 
 **Music Director:** Lisa Guitar
 
@@ -17,9 +17,11 @@ title: "Staff"
 
 **Sports Director:** Tori Leach
 
-**Video Editor:** Robyn Carmona
+**Social Media Director:** Emily Ayala
 
 **PSA Director:** John
+
+**Video Editor:** Robyn Carmona
 
 **Chief Engineer:** Tibet Tornaci
 
