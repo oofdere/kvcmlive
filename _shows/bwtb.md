@@ -1,5 +1,5 @@
 ---
-title: "Breakfast With the Beatles"
+title: "Breakfast With The Beatles"
 excerpt: ""
 header:
   teaser: /assets/images/bwtb_waifu2x.png
