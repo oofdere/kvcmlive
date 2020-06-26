@@ -10,7 +10,7 @@ sidebar:
     text: "Motivation, Eclectic Music"
 ---
 
-Use your POWER to move others FORWARD! A mix of motivational conversation and an eclectic variety of music!
+Use your POWER to move others <i>FORWARD!</i> A mix of motivational conversation and an eclectic variety of music!
 
 <iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/videoseries?list=PLFRsf9ZRxgKFAWsjQ5AR3DAMx1IzWtj6z" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
