@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/bwtb_waifu2x.png
 sidebar:
   - image: /assets/images/bwtb_waifu2x.png
-  - title: "10AM SAT & SUN"
+  - title: "10AM - Noon Sat & Sun"
   - title: "Genres"
     text: "Oldies"
     image_alt: "logo"
