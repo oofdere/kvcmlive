@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/Saturday Night Dance Party.jpg"
 sidebar:
   - image: "/assets/images/Saturday Night Dance Party.jpg"
-  - title: "6 PM - Midnight Saturday"
+  - title: "6PM - Midnight Sat"
   - title: "Genres"
     text: "Dance, Disco, Funk, Pop"
 ---
