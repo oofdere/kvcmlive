@@ -2,6 +2,7 @@
 permalink: /contact/
 title: "Contact Us"
 
+author_profile: true
 author:
   name: "kvcm.live"
   avatar: "/assets/images/square.jpg"
