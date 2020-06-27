@@ -24,7 +24,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/kvcmlive95.1"
-  location: >-
+  bio: >-
     KVCM Radio
 
     Attn: Station Manager
