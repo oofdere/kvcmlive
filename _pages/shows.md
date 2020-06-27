@@ -56,7 +56,7 @@ sidebar:
 
       06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
       
-      09AM | [Rock N’ Roll Cowboy](/shows/rocknrollcowboy/)
+      09AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
       10AM | [Breakfast With The Beatles](/shows/bwtb/)
       
