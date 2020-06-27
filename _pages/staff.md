@@ -11,6 +11,8 @@ title: "Staff"
 
 **Assistant Program Director:** Remy
 
+**Entertainment Director:** Tristan Longwell
+
 **Music Director:** Lisa Guitar
 
 **News Director:** Ron Ski
