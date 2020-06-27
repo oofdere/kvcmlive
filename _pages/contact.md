@@ -1,6 +1,6 @@
 ---
-permalink: /staff/
-title: "Staff"
+permalink: /contact/
+title: "Contact Us"
 
 author:
   name     : "kvcm.live"
