@@ -35,6 +35,8 @@ sidebar:
     text: >-
       12AM | [The Audio Playground](/shows/audioplayground/)
       
+      05AM | [Good Advices](/shows/goodadvices/)
+
       06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
       
       09AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
@@ -43,11 +45,15 @@ sidebar:
       
       12PM | [The Audio Playground](/shows/audioplayground/)
       
+      05PM | [Good Advices](/shows/goodadvices/)
+
       06PM | [Saturday Night Dance Party](/shows/saturdaynightdanceparty/)
   - title: Sunday  
     text: >-
       12AM | [The Audio Playground](/shows/audioplayground/)
-      
+
+      05AM | [Good Advices](/shows/goodadvices/)
+
       06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
       
       09AM | [Rock N’ Roll Cowboy](/shows/rocknrollcowboy/)
@@ -55,6 +61,8 @@ sidebar:
       10AM | [Breakfast With The Beatles](/shows/bwtb/)
       
       12PM | [The Audio Playground](/shows/audioplayground/)
+
+      05PM | [Good Advices](/shows/goodadvices/)
       
       06PM | [Sunday Night Oldies](/shows/sundaynightoldies/)
 ---
