@@ -28,3 +28,9 @@ title: "Staff"
 **Chief Engineer:** Tibet Tornaci
 
 **Engineers:** Alex Landaverde, Remy
+
+# Announcers
+**Entertainment Update:** Tristan Longwell
+**Headline News:** Ron Ski
+**Sports Highlights:** Tori Leach
+**Voice Overs:** Robin Soltis
