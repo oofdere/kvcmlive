@@ -31,6 +31,9 @@ title: "Staff"
 
 # Announcers
 **Entertainment Update:** Tristan Longwell
+
 **Headline News:** Ron Ski
+
 **Sports Highlights:** Tori Leach
+
 **Voice Overs:** Robin Soltis
