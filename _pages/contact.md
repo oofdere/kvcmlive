@@ -24,20 +24,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/kvcmlive95.1"
-
-sidebar:
-  text: >-
-    KVCM Radio
-
-    Attn: Station Manager
-    
-    5800 Fulton Ave.
-    
-    Valley Glen, CA 91401
-  text: >-
-    Phone: [(818) 947-2305](tel:+1-818-947-2305) Main Line
-    
-    Email: [KVCM@lavc.edu](mailto:kvcm@lavc.edu)
 ---
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScPcdB307AFFGq44_gpKfodCBMzdM64n7KPVTe-cRWRU4Z7OA/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">If form does not load, <a href="https://docs.google.com/forms/d/e/1FAIpQLScPcdB307AFFGq44_gpKfodCBMzdM64n7KPVTe-cRWRU4Z7OA/viewform">click here.</a></iframe>
