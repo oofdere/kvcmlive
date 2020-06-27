@@ -3,9 +3,9 @@ permalink: /contact/
 title: "Contact Us"
 
 author:
-  name     : "kvcm.live"
-  avatar   : "/assets/images/square.jpg"
-  location : >-
+  name: "kvcm.live"
+  avatar: "/assets/images/square.jpg"
+  bio: >-
     KVCM Radio
 
     Attn: Station Manager
@@ -38,4 +38,4 @@ author:
       url: "https://www.facebook.com/kvcmlive95.1"
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScPcdB307AFFGq44_gpKfodCBMzdM64n7KPVTe-cRWRU4Z7OA/viewform?embedded=true">If form does not load, <a href="https://docs.google.com/forms/d/e/1FAIpQLScPcdB307AFFGq44_gpKfodCBMzdM64n7KPVTe-cRWRU4Z7OA/viewform">click here.</a></iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScPcdB307AFFGq44_gpKfodCBMzdM64n7KPVTe-cRWRU4Z7OA/viewform?embedded=true" width="100%" height="100%">If form does not load, <a href="https://docs.google.com/forms/d/e/1FAIpQLScPcdB307AFFGq44_gpKfodCBMzdM64n7KPVTe-cRWRU4Z7OA/viewform">click here.</a></iframe>
