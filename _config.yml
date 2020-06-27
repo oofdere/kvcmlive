@@ -81,7 +81,7 @@ footer:
       url: "https://www.facebook.com/kvcmlive95.1"
     - label: "Contact Us"
       icon: "far fa-envelope"
-      url: "https://docs.google.com/forms/d/e/1FAIpQLScPcdB307AFFGq44_gpKfodCBMzdM64n7KPVTe-cRWRU4Z7OA/viewform"
+      url: "/contact/"
     
 
 defaults:
