@@ -21,7 +21,7 @@ title: "Staff"
 
 **Social Media Director:** Emily Ayala
 
-**PSA Director:** John
+**PSA Director:**
 
 **Video Editor:** Robyn Carmona
 
