@@ -4,7 +4,6 @@ title: "Contact Us"
 
 author_profile: true
 author:
-  name: "kvcm.live"
   avatar: "/assets/images/square.jpg"
   links:
     - label: "Twitch"
@@ -25,7 +24,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/kvcmlive95.1"
-  bio: >-
+  text: >-
     KVCM Radio
 
 
@@ -42,7 +41,7 @@ author:
 
     Phone: [(818) 947-2305](tel:+1-818-947-2305) Main Line
 
-    
+
     Email: [KVCM@lavc.edu](mailto:kvcm@lavc.edu)
 ---
 
