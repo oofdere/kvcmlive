@@ -34,8 +34,6 @@ author:
 
 
     Phone: [(818) 947-2305](tel:+1-818-947-2305) Main Line
-
-    
     Email: [KVCM@lavc.edu](mailto:kvcm@lavc.edu)
 ---
 
