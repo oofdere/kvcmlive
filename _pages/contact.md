@@ -28,17 +28,13 @@ author:
   bio: >-
     KVCM Radio
 
-
     Attn: Station Manager
-
 
     5800 Fulton Ave.
 
-
     Valley Glen, CA 91401
 
-
-
+    ---
 
     Phone: [(818) 947-2305](tel:+1-818-947-2305) Main Line
 
