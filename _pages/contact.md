@@ -4,7 +4,7 @@ title: "Contact Us"
 
 author_profile: true
 author:
-  name: "kvcm.live"
+  name: 
   avatar: "/assets/images/square.jpg"
   links:
     - label: "Twitch"
