@@ -30,10 +30,11 @@ title: "Staff"
 **Engineers:** Alex Landaverde, Remy
 
 # Announcers
-**Entertainment Update:** Tristan Longwell
 
 **Headline News:** Ron Ski
 
 **Sports Highlights:** Tori Leach
+
+**Entertainment Update:** Tristan Longwell
 
 **Voice Overs:** Robin Soltis
