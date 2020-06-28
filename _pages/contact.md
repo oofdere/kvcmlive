@@ -26,13 +26,10 @@ author:
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/kvcmlive95.1"
   bio: >-
-    KVCM Radio
-
-    Attn: Station Manager
-
-    5800 Fulton Ave.
-
-    Valley Glen, CA 91401
+    KVCM Radio<br/>
+    Attn: Station Manager<br/>
+    5800 Fulton Ave.<br/>
+    Valley Glen, CA 91401<br/>
 
 
 
