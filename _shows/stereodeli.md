@@ -1,5 +1,5 @@
 ---
-title: "Stereo Deli"
+title: "The Stereo Deli Show"
 excerpt: ""
 header:
   teaser: /assets/images/StereoDeli.png
