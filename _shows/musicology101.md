@@ -10,7 +10,7 @@ sidebar:
     text: "House, Disco, Funk Boogie, R&B"
 ---
 
-<i>musicology (n.) The historical and scientific study of music.</i>
+<i>musicology</i> (n.) The historical and scientific study of music.
 
 Kent R. Carmona, often referred to as “Professor KC”, “The Educator”, and “A Surgeon on the Wheels of Steel and The Mixologist Extraordinaire”, KC reaches deep down into the musical core and begins his tutelage — his art of imparting knowledge and skills. His style is a diverse blend of over 45 years of playing an international range of music. Because of his versatility and dedicated personality, not to mention his vast knowledge of many musical genres, it is unquestionably clear why so many old and young sit at his feet and request the talent and expertise of Professor KC. Teaching the youth exactly where the music they play comes from, and always dropping musical science, KC along with his wife and co-host Rocking Robyn, bring you Musicology 101.
 
