@@ -8,7 +8,7 @@ classes: wide
 sidebar: 
   - title: Monday-Friday
     text: >- # this means to ignore newlines until "baseurl:"  
-      12AM & 12PM | Musicology 101
+      12AM & 12PM | [Musicology 101](/shows/musicology101/)
 
       01AM & 01PM | [Music Motif](/shows/musicmotif/)
       
