@@ -30,7 +30,7 @@ sidebar:
       
       10AM & 10PM | [MultiTrack Revolution](/shows/mtr/)
       
-      11AM & 11PM | Stereo Deli
+      11AM & 11PM | [Stereo Deli](/shows/stereodeli/)
   - title: Saturday
     text: >-
       12AM | [The Audio Playground](/shows/audioplayground/)
