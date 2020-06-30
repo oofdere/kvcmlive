@@ -24,7 +24,7 @@ sidebar:
       
       07AM & 07PM | [Rhythm & Views](/shows/rhythmandviews/)
       
-      08AM & 08PM | False Idols
+      08AM & 08PM | [False Idols](/shows/falseidols/)
       
       09AM & 09PM | [The Audio Playground](/shows/audioplayground/)
       
