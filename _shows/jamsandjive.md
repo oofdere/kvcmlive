@@ -1,13 +1,13 @@
 ---
-title: "Jams and Jive"
+title: "Voice and Flow"
 excerpt: ""
 header:
-  teaser: /assets/images/jamsandjive.png
+  teaser: /assets/images/VoiceAndFlow.png
 sidebar:
-  - image: /assets/images/jamsandjive.png
-  - title: "5AM & 5PM Weekdays"
+  - image: /assets/images/VoiceAndFlow.png
+  - title: "3AM & 3PM Weekdays"
   - title: "Genres"
-    text: "Talk, Eclectic"
+    text: "Talk, Podcast, Spoken Word"
 ---
 
 Jams and Jive is co-hosted by The Good Foot's Bosco Bonetti and Rhythm and Views host Dr. Lovey who discuss current events, their own lives, and play hits from a variety of genres from yesteryear through today.
