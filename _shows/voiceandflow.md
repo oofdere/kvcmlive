@@ -1,5 +1,5 @@
 ---
-title: "Voice and Flow"
+title: "Voice & Flow"
 excerpt: ""
 header:
   teaser: /assets/images/VoiceAndFlow.png
