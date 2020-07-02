@@ -7,11 +7,11 @@ title: "Staff"
 
 **Operations Manager/Creative Director:** Bosco Bonetti
 
-**Production Director:** Ozzie Flamenco
+**Producer:** Remy
 
-**Assistant Program Director:** Remy
+**Production Director:**
 
-**Entertainment Director:** Tristan Longwell
+**PSA Director:**
 
 **Music Director:** Lisa Guitar
 
@@ -19,15 +19,19 @@ title: "Staff"
 
 **Sports Director:** Tori Leach
 
-**Social Media Director:** Emily Ayala
+**Campus Talk Director:**
 
-**PSA Director:**
+**Entertainment Director:** Tristan Longwell
+
+**Social Media Director:** Emily Ayala
 
 **Video Editor:** Robyn Carmona
 
 **Chief Engineer:** Tibet Tornaci
 
-**Engineers:** Alex Landaverde, Remy
+**Audio Engineer:** Alex Landaverde
+
+**Website Engineer:** Remy
 
 # Announcers
 
