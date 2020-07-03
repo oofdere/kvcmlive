@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/mtr.png
 sidebar:
   - image: /assets/images/mtr.png
-  #- title: "TimeSlot"
+  - title: "10AM & 10PM Weekdays"
   - title: "Genres"
     text: "Punk, New Wave, Hard Rock"
 ---
