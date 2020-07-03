@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/jkimp.jpg
 sidebar:
   - image: /assets/images/jkimp.jpg
-  #- title: "TimeSlot"
+  - title: "4AM & 4PM Weekdays"
   - title: "Genres"
     text: "Motivation, Eclectic Music"
 ---
