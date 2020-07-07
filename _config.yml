@@ -137,6 +137,9 @@ collections:
   shows:
     output: true
     permalink: /:collection/:path/
+  podcasts:
+    output: true
+    permalink: /:collection/:path/
 
 # SEO
 social:
