@@ -3,6 +3,8 @@ main:
     url: "https://twitch.tv/kvcmradio"
   - title: "Shows"
     url: /shows/
+  - title: "Podcasts"
+    url: /podcasts/
   - title: "Staff"
     url: /staff/
   - title: "Contact"

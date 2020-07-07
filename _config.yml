@@ -111,6 +111,14 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _podcasts
+  - scope:
+      path: ""
+      type: podcasts
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
