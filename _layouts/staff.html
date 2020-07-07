@@ -1,0 +1,43 @@
+---
+layout: single
+---
+
+{{ content }}
+  
+{% for person in site.staff %}
+        <img src="{{person.image | relative_url }}" alt="{{ person.name }}" itemprop="image" class="author-image">
+        <div class="staff-card">
+            <h3>{{ person.name }}</h3>
+            <h4>{{ person.position }}</h4>
+            <p>{{ person.bio | markdownify }}</p>
+        </div>
+        
+        <div class="social-links-staff">
+            {% if person.facebook %}
+                <a href="{{person.facebook}}" class="btn btn--primary">Facebook</a>
+            {% endif %}
+            {% if person.twitter %}
+                <a href="{{person.twitter}}" class="btn btn--primary">Twitter</a>
+            {% endif %}
+            {% if person.instagram %}
+                <a href="{{person.instagram}}" class="btn btn--primary">Instagram</a>
+            {% endif %}
+            {% if person.reddit %}
+                <a href="{{person.reddit}}" class="btn btn--primary">Reddit</a>
+            {% endif %}
+            {% if person.github %}
+                <a href="{{person.github}}" class="btn btn--primary">Github</a>
+            {% endif %}
+            {% if person.soundcloud %}
+                <a href="{{person.soundcloud}}" class="btn btn--primary">SoundCloud</a>
+            {% endif %}
+            {% if person.mixcloud %}
+                <a href="{{person.mixcloud}}" class="btn btn--primary">Mixcloud</a>
+            {% endif %}
+            {% if person.youtube %}
+                <a href="{{person.youtube}}" class="btn btn--primary">YouTube</a>
+            {% endif %}
+        </div>
+        <hr>
+    </div>
+{% endfor %}

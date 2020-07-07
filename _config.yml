@@ -105,8 +105,16 @@ defaults:
       author_profile: false
   # _shows
   - scope:
-      path: ""
+      path: "_shows"
       type: shows
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _staff
+  - scope:
+      path: "_staff"
+      type: staff
     values:
       layout: single
       author_profile: false
@@ -129,6 +137,10 @@ collections:
   shows:
     output: true
     permalink: /:collection/:path/
+  staff:
+    output: true
+    permalink: /:collection/:path/
+
 
 # SEO
 social:
