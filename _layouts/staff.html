@@ -3,15 +3,51 @@ layout: single
 ---
 
 {{ content }}
-  
-{% for person in site.staff %}
-        <img src="{{person.image | relative_url }}" alt="{{ person.name }}" itemprop="image" class="author-image">
-        <div class="staff-card">
-            <h3>{{ person.name }}</h3>
-            <h4>{{ person.position }}</h4>
-            <p>{{ person.bio | markdownify }}</p>
+
+<style>
+    .staff-image {
+        float: left;
+        height: 100px;
+        padding: 1%;
+    }
+
+    .staff-info {
+        padding-top: 1%;
+    }
+
+    .staff-position {
+        font-size: 15px !important;
+        font-style: italic;
+    }
+
+    .staff-name {
+        font-size: 25px !important;
+        font-weight: bold;
+        margin: 0px !important;
+    }
+
+
+
+    hr {
+        clear: both;
+        padding: 1%;
+    }
+</style>
+
+<div class="staff-list">
+    {% for person in site.staff %}
+    <div class="staff-card">
+        {% if person.image %}
+            <img src="{{person.image | relative_url }}" alt="{{ person.name }}" itemprop="image" class="staff-image">
+        {% endif %}
+
+        <div class="staff-info">
+            <p class="staff-name">{{ person.name }}</h3>
+            <p class="staff-position">{{ person.position }}</p>
+            <p class="staff-bio">{{ person.bio | markdownify }}</p>
         </div>
         
+        {% if person.socials %}
         <div class="social-links-staff">
             {% if person.facebook %}
                 <a href="{{person.facebook}}" class="btn btn--primary">Facebook</a>
@@ -38,6 +74,8 @@ layout: single
                 <a href="{{person.youtube}}" class="btn btn--primary">YouTube</a>
             {% endif %}
         </div>
-        <hr>
+        {% endif %}
     </div>
-{% endfor %}
+    <hr>
+    {% endfor %}
+</div>
