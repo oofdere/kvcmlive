@@ -11,7 +11,7 @@ title: "Staff"
 
 **Production Director:**
 
-**PSA Director:**
+**PSA Director:** Jarius Bates
 
 **Music Director:** Lisa Guitar
 
