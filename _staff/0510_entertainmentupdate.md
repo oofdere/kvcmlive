@@ -1,6 +1,6 @@
 ---
-short_name: entertainmentupdateannouncer
+short_name: entertainmentupdate
 name: Tristan Longwell
-position: Entertainment Update Announcer
+position: Entertainment Update
 image: /assets/images/staff/TristanLongwell.png
 ---
