@@ -43,7 +43,7 @@ sidebar:
       
       10AM | [Breakfast With The Beatles](/shows/bwtb/)
       
-      12PM | [The Audio Playground](/shows/audioplayground/)
+      12PM | [The Ageless Wisdom](/shows/agelesswisdom/)
       
       05PM | [Good Advices](/shows/goodadvices/)
 
@@ -60,7 +60,7 @@ sidebar:
       
       10AM | [Breakfast With The Beatles](/shows/bwtb/)
       
-      12PM | [The Audio Playground](/shows/audioplayground/)
+      12PM | [The Ageless Wisdom](/shows/agelesswisdom/)
 
       05PM | [Good Advices](/shows/goodadvices/)
       
