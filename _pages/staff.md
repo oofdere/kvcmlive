@@ -1,6 +1,6 @@
 ---
 title: Staff
-layout: collection
+layout: staff
 permalink: /staff/
 collection: staff
 entries_layout: grid
