@@ -145,7 +145,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   staff:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 # SEO
