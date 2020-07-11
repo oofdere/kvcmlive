@@ -1,6 +1,6 @@
 ---
 short_name: voiceovers
-name: Belen
-position: Voice Overs<br>Asst. to Mr. Bonetti
-image: /assets/images/staff/Belen.png
+name: Gerardo
+position: Voice Overs
+image: /assets/images/staff/Available.png
 ---
