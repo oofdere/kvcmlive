@@ -1,6 +1,6 @@
 ---
 short_name: operationsmanager
-name: Production Director
-position: Email us at kvcm@lavc.edu for more information!
-image: /assets/images/staff/staff.png
+name: Belen
+position: Production Director<br>Voice Over
+image: /assets/images/staff/Belen.png
 ---
