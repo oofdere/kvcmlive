@@ -5,10 +5,7 @@ layout: single
 {{ content }}
 
 <style>
-    .staff-list {
-        columns: auto;
-        column-count: 2;
-    }
+
     .staff-image {
         float: left;
         height: 200px;
@@ -35,6 +32,12 @@ layout: single
         padding: 0%;
     }
     
+    @media only screen and (min-width: 1025px) {
+    .staff-list {
+        columns: auto;
+        column-count: 2;
+    }
+    } 
 </style>
 
 <div class="staff-list">
