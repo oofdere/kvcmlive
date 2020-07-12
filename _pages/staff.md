@@ -4,5 +4,5 @@ layout: staff
 permalink: /staff/
 collection: staff
 entries_layout: grid
-classes: wide
+classes: wide2
 ---
