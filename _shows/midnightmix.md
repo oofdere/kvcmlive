@@ -1,5 +1,5 @@
 ---
-title: "MultiTrack Revolution"
+title: "The Midnight Mix"
 excerpt: ""
 header:
   teaser: /assets/images/TheMidnightMix.png
