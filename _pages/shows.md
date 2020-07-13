@@ -33,7 +33,7 @@ sidebar:
       11AM & 11PM | [The Stereo Deli Show](/shows/stereodeli/)
   - title: Saturday
     text: >-
-      12AM | [The Audio Playground](/shows/audioplayground/)
+      12AM | [The Midnight Mix](/shows/midnightmix/)
       
       05AM | [Good Advices](/shows/goodadvices/)
 
@@ -50,7 +50,7 @@ sidebar:
       06PM | [Saturday Night Dance Party](/shows/saturdaynightdanceparty/)
   - title: Sunday  
     text: >-
-      12AM | [The Audio Playground](/shows/audioplayground/)
+      12AM | [The Midnight Mix](/shows/midnightmix/)
 
       05AM | [Good Advices](/shows/goodadvices/)
 
