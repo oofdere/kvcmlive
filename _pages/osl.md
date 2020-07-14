@@ -1,4 +1,5 @@
 ---
+permalink: /osl/
 title: "Open Source Licenses"
 sitemap: false
 toc: true
