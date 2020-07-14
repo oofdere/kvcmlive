@@ -1,6 +1,9 @@
-# Credits
+---
+title: "Open Source Licenses"
+sitemap: false
+toc: true
+---
 
-## Open Source Projects
 #### Jekyll
 The MIT License (MIT)
 
