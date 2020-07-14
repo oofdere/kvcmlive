@@ -6,8 +6,8 @@ main:
   - title: "Podcasts"
     url: /podcasts/
   - title: "Events"
-      url: /news/
+    url: /news/
   - title: "Staff"
     url: /staff/
   - title: "Contact"
-      url: /contact/
+    url: /contact/
