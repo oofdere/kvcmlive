@@ -1,6 +1,6 @@
 ---
 short_name: musicdirector
-name: Lisa Guitar
+name: Carmelita Thomas
 position: Music Director
-image: /assets/images/staff/LisaGuitar.png
+image: /assets/images/staff/CarmelitaThomas.png
 ---
