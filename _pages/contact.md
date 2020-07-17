@@ -31,7 +31,8 @@ author:
     at LAVC. The purpose is for students to be able to
     express their ideas, thoughts, stories, and music in
     a radio and podcasting setting to further their
-    educational goals in relation to media.
+    educational goals in relation to media.<br/>
+    
     
     KVCM Radio<br/>
     Attn: Station Manager<br/>
