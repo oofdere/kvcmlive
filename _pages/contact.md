@@ -26,6 +26,13 @@ author:
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/kvcmlive95.1"
   bio: >-
+    KVCM.Live is an all digital lab. It is run in combination
+    with Broadcasting classes and the Broadcasting club
+    at LAVC. The purpose is for students to be able to
+    express their ideas, thoughts, stories, and music in
+    a radio and podcasting setting to further their
+    educational goals in relation to media.
+    
     KVCM Radio<br/>
     Attn: Station Manager<br/>
     5800 Fulton Ave.<br/>
