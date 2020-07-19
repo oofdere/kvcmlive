@@ -6,7 +6,7 @@ collection: staff
 entries_layout: grid
 classes: wide
 sidebar: 
-  - headline: About
+  - title: <h1>About</h1>
     text: >- # this means to ignore newlines until "baseurl:"  
       KVCM.Live is an all digital lab. It is run in combination
       with Broadcasting classes and the Broadcasting club
