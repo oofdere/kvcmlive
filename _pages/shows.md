@@ -14,7 +14,7 @@ sidebar:
       
       02AM & 02PM | [The Audio Playground](/shows/audioplayground/)
       
-      03AM & 03PM | [LAVC Town Hall(/podcasts/lavctownhall/)
+      03AM & 03PM | [LAVC Town Hall](/podcasts/lavctownhall/)
       
       04AM & 04PM | [Just Keep It Movin’…*Powerfully!*](/shows/jkimp/)
       
