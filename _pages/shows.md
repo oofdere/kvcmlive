@@ -45,6 +45,8 @@ sidebar:
       
       12PM | [The Ageless Wisdom](/shows/agelesswisdom/)
       
+      03PM | [Voices & Flow](/shows/voicesandflow/)
+      
       05PM | [Good Advices](/shows/goodadvices/)
 
       06PM | [Saturday Night Dance Party](/shows/saturdaynightdanceparty/)
@@ -61,6 +63,8 @@ sidebar:
       10AM | [Breakfast With The Beatles](/shows/bwtb/)
       
       12PM | [The Ageless Wisdom](/shows/agelesswisdom/)
+      
+      03PM | [Voices & Flow](/shows/voicesandflow/)
 
       05PM | [Good Advices](/shows/goodadvices/)
       
