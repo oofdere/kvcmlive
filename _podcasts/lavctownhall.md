@@ -11,3 +11,5 @@ sidebar:
 ---
 
 President Barry Gribbons provides students with a college update. He will also be answering questions during the live chat.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ElUM80QC7hE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
