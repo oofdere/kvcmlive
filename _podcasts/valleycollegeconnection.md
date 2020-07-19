@@ -7,7 +7,7 @@ sidebar:
   - image: /assets/images/LAVCconnectionPodcast.png
   - title: "1PM Sat & Sun"
   - title: "Genres"
-    text: "POdcast"
+    text: "Podcast"
 ---
 
 The LAVC Academic Resource Center has partnered with KVCM Monarch Radio to present a college podcast called the Valley College Connection.
