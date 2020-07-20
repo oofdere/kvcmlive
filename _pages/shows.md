@@ -8,8 +8,8 @@ classes: wide
 sidebar: 
   - title: Monday-Friday
     text: >- # this means to ignore newlines until "baseurl:"  
-      12AM & 12PM | [Musicology 101](/shows/musicology101/)
-
+      12AM & 12PM | [MultiTrack Revolution](/shows/mtr/)
+      
       01AM & 01PM | [Music Motif](/shows/musicmotif/)
       
       02AM & 02PM | [The Audio Playground](/shows/audioplayground/)
@@ -28,9 +28,9 @@ sidebar:
       
       09AM & 09PM | [The Audio Playground](/shows/audioplayground/)
       
-      10AM & 10PM | [MultiTrack Revolution](/shows/mtr/)
+      10AM & 10PM | [The Stereo Deli Show](/shows/stereodeli/)
       
-      11AM & 11PM | [The Stereo Deli Show](/shows/stereodeli/)
+      11AM & 11PM | [Musicology 101](/shows/musicology101/)
   - title: Saturday
     text: >-
       12AM | [The Midnight Mix](/shows/midnightmix/)
