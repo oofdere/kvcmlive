@@ -47,6 +47,10 @@ layout: default
     bottom: 0;
   }
 }
+
+.popout {
+  padding: 20px;
+}
 </style>
 
 <div class="twitch">
@@ -61,7 +65,6 @@ layout: default
         width="100%">
     </iframe>
 
-    <a href="https://player.twitch.tv/?channel=kvcmradio&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&volume=1" onclick="window.open('https://player.twitch.tv/?channel=kvcmradio&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&volume=1','popup','width=600,height=600,scrollbars=no,resizable=no'); player.pause(); return false;" class="btn btn--primary">Pop-out player (beta)</a>
   </div>
 </div>
 
@@ -75,3 +78,5 @@ layout: default
   var player = new Twitch.Player("video", options);
   //player.setVolume(0.5);
 </script>
+
+<div class="popout"><a href="https://player.twitch.tv/?channel=kvcmradio&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&volume=1" onclick="window.open('https://player.twitch.tv/?channel=kvcmradio&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&volume=1','popup','width=600,height=600,scrollbars=no,resizable=no'); player.pause(); return false;" class="btn btn--primary">Pop-out player (beta)</a></div>
