@@ -1,6 +1,6 @@
 ---
 short_name: campustalkdirector
-name: Campus Talk Director
-position: Email us at kvcm@lavc.edu for more information!
-image: /assets/images/staff/staff.png
+name: Osmin Flamenco
+position: Campus Talk Director
+image: /assets/images/staff/OzzieFlamenco.png
 ---
