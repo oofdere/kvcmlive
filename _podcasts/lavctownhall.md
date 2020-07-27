@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/lavctownhall.png
 sidebar:
   - image: /assets/images/lavctownhall.png
-  - title: "3AM & 3PM Weekdays"
+  - title: "6AM & 6PM Weekdays"
   - title: "Genres"
     text: "Talk, Podcast"
 ---
