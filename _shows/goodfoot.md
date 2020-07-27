@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/TheGoodFoot_Bosco.png
 sidebar:
   - image: /assets/images/TheGoodFoot_Bosco.png
-  - title: "6AM & 6PM Weekdays"
+  - title: "12AM & 12PM Weekdays"
   - title: "Genres"
     text: "Soul, Funk, R&B"
 ---
