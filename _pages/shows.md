@@ -12,7 +12,7 @@ sidebar:
       
       01AM & 01PM | [Music Motif](/shows/musicmotif/)
       
-      02AM & 02PM | [False Idols](/shows/falseidols/))
+      02AM & 02PM | [False Idols](/shows/falseidols/)
       
       03AM & 03PM | [MultiTrack Revolution](/shows/mtr/)
       
