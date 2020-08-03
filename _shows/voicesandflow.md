@@ -5,7 +5,8 @@ header:
   teaser: /assets/images/VoicesFlow.png
 sidebar:
   - image: /assets/images/VoicesFlow.png
-  - title: "3PM Sat & Sun"
+  - title: "5AM & 5PM Weekdays"
+  - title: "4PM Sat & Sun"
   - title: "Genres"
     text: "Talk, Podcast, Spoken Word"
 ---
