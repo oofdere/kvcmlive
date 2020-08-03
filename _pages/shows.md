@@ -76,7 +76,7 @@ sidebar:
       
       02PM | The Gabbing Good Fight
       
-      03PM | [Bites With Trixie](/shows/biteswithtrixie/)[Voices & Flow](/shows/voicesandflow/)
+      03PM | [Bites With Trixie](/shows/biteswithtrixie/)
       
       04PM | [Voices & Flow](/shows/voicesandflow/)
 
