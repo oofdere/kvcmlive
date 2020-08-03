@@ -35,6 +35,8 @@ sidebar:
     text: >-
       12AM | [The Midnight Mix](/shows/midnightmix/)
       
+      01AM | [The Audio Playground](/shows/audioplayground/)
+      
       05AM | [Good Advices](/shows/goodadvices/)
 
       06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
@@ -61,6 +63,8 @@ sidebar:
   - title: Sunday  
     text: >-
       12AM | [The Midnight Mix](/shows/midnightmix/)
+      
+      01AM | [The Audio Playground](/shows/audioplayground/)
 
       05AM | [Good Advices](/shows/goodadvices/)
 
