@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/SundayNightOldies.png"
 sidebar:
   - image: "/assets/images/SundayNightOldies.png"
-  - title: "6PM - Midnight Sun"
+  - title: "7PM - Midnight Sun"
   - title: "Genres"
     text: "Oldies"
 ---
