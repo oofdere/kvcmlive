@@ -47,11 +47,17 @@ sidebar:
       
       01PM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
       
-      03PM | [Jams and Jive](/shows/jamsandjive/)
+      02PM | The Gabbing Good Fight
+      
+      03PM | [Bites With Trixie](/shows/biteswithtrixie/)
+      
+      04PM | [Voices & Flow](/shows/voicesandflow/)
       
       05PM | [Good Advices](/shows/goodadvices/)
+      
+      06PM | [Jams and Jive](/shows/jamsandjive/)
 
-      06PM | [Saturday Night Dance Party](/shows/saturdaynightdanceparty/)
+      07PM | [Saturday Night Dance Party](/shows/saturdaynightdanceparty/)
   - title: Sunday  
     text: >-
       12AM | [The Midnight Mix](/shows/midnightmix/)
@@ -68,9 +74,15 @@ sidebar:
       
       01PM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
       
-      03PM | [Voices & Flow](/shows/voicesandflow/)
+      02PM | The Gabbing Good Fight
+      
+      03PM | [Bites With Trixie](/shows/biteswithtrixie/)[Voices & Flow](/shows/voicesandflow/)
+      
+      04PM | [Voices & Flow](/shows/voicesandflow/)
 
       05PM | [Good Advices](/shows/goodadvices/)
       
-      06PM | [Sunday Night Oldies](/shows/sundaynightoldies/)
+      06PM | [Jams and Jive](/shows/jamsandjive/)
+      
+      07PM | [Sunday Night Oldies](/shows/sundaynightoldies/)
 ---
