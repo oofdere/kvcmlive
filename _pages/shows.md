@@ -16,15 +16,15 @@ sidebar:
       
       03AM & 03PM | [MultiTrack Revolution](/shows/mtr/)
       
-      04AM & 04PM | [Just Keep It Movin’…*Powerfully!*](/shows/jkimp/)
+      04AM & 04PM | [Bites With Trixie](/shows/biteswithtrixie/)
       
-      05AM & 05PM | [Jams and Jive](/shows/jamsandjive/)
+      05AM & 05PM | [Voices & Flow](/shows/voicesandflow/)
       
-      06AM & 06PM | [LAVC Town Hall](/podcasts/lavctownhall/)
+      06AM & 06PM | [Just Keep It Movin’…*Powerfully!*](/shows/jkimp/)
       
       07AM & 07PM | [Rhythm & Views](/shows/rhythmandviews/)
       
-      08AM & 08PM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
+      08AM & 08PM | KVCM Presents
       
       09AM & 09PM | [The Audio Playground](/shows/audioplayground/)
       
@@ -47,7 +47,7 @@ sidebar:
       
       01PM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
       
-      03PM | [Voices & Flow](/shows/voicesandflow/)
+      03PM | [Jams and Jive](/shows/jamsandjive/)
       
       05PM | [Good Advices](/shows/goodadvices/)
 
