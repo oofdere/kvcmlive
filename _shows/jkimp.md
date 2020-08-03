@@ -5,6 +5,7 @@ header:
   teaser: /assets/images/jkimp.jpg
 sidebar:
   - image: /assets/images/jkimp.jpg
+  - title: "6AM & 6PM Weekdays"
   - title: "Genres"
     text: "Motivation, Eclectic Music"
 ---
