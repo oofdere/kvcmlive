@@ -16,7 +16,7 @@ sidebar:
       
       03AM & 03PM | [MultiTrack Revolution](/shows/mtr/)
       
-      04AM & 04PM | [Bites With Trixie](/shows/biteswithtrixie/)
+      04AM & 04PM | [Permanent Damage](/shows/permanentdamage/)
       
       05AM & 05PM | [Voices & Flow](/shows/voicesandflow/)
       
