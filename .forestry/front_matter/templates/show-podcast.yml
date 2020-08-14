@@ -1,0 +1,24 @@
+---
+label: Show/Podcast
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: excerpt
+  label: excerpt
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: file
+    name: teaser
+    label: teaser
+- type: field_group_list
+  name: sidebar
+  label: sidebar
+  fields:
+  - type: file
+    name: image
+    label: image
