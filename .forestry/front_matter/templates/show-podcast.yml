@@ -4,21 +4,29 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: excerpt
   label: excerpt
+  hidden: true
 - type: field_group
   name: header
   label: header
   fields:
   - type: file
     name: teaser
-    label: teaser
+    label: Image (on shows/podcasts page)
+  hidden: true
 - type: field_group_list
   name: sidebar
   label: sidebar
   fields:
   - type: file
     name: image
-    label: image
+    label: Image (on page sidebar)
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  hidden: false
