@@ -30,3 +30,5 @@ fields:
       required: false
     label: Title
   hidden: false
+pages:
+- _shows/voicesandflow.md
