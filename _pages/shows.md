@@ -14,7 +14,7 @@ sidebar:
       
       02AM & 02PM | [False Idols](/shows/falseidols/)
       
-      03AM & 03PM | [MultiTrack Revolution](/shows/mtr/)
+      03AM & 03PM | [The Audio Playground](/shows/audioplayground/)
       
       04AM & 04PM | [Permanent Damage](/shows/permanentdamage/)
       
@@ -24,7 +24,7 @@ sidebar:
       
       07AM & 07PM | [Rhythm & Views](/shows/rhythmandviews/)
       
-      08AM & 08PM | KVCM Presents
+      08AM & 08PM | [MultiTrack Revolution](/shows/mtr/)
       
       09AM & 09PM | [The Audio Playground](/shows/audioplayground/)
       
