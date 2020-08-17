@@ -36,8 +36,6 @@ sidebar:
       12AM | [The Midnight Mix](/shows/midnightmix/)
       
       01AM | [The Audio Playground](/shows/audioplayground/)
-      
-      05AM | [Good Advices](/shows/goodadvices/)
 
       05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
       
@@ -66,8 +64,6 @@ sidebar:
       12AM | [The Midnight Mix](/shows/midnightmix/)
       
       01AM | [The Audio Playground](/shows/audioplayground/)
-
-      05AM | [Good Advices](/shows/goodadvices/)
 
       05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
       
