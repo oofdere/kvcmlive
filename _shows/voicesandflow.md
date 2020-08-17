@@ -4,7 +4,7 @@ excerpt: ''
 header:
   teaser: "/assets/images/VoicesFlow.png"
 sidebar:
-- image: ''
+- image: "/assets/images/VoicesFlow.png"
   title: ''
 - title: 5AM & 5PM Weekdays
   image: ''
