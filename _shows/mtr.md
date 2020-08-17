@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/mtr.png
 sidebar:
   - image: /assets/images/mtr.png
-  - title: "3AM & 3PM Weekdays"
+  - title: "8AM & 8PM Weekdays"
   - title: "Genres"
     text: "Punk, New Wave, Hard Rock"
 ---
