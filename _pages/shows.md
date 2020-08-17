@@ -39,27 +39,28 @@ sidebar:
       
       05AM | [Good Advices](/shows/goodadvices/)
 
-      06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+      
+      06AM | [The Ageless Wisdom](/shows/agelesswisdom/)
+      
+      07AM | [Breakfast With The Beatles](/shows/bwtb/)
       
       09AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
-      10AM | [Breakfast With The Beatles](/shows/bwtb/)
+      10AM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
       
-      12PM | [The Ageless Wisdom](/shows/agelesswisdom/)
-      
-      01PM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
-      
-      02PM | The Gabbing Good Fight
+      11AM | [Voices & Flow](/shows/voicesandflow/)
       
       03PM | [Bites With Trixie](/shows/biteswithtrixie/)
       
-      04PM | [Voices & Flow](/shows/voicesandflow/)
+      01PM | KVCM Spotlight
       
       05PM | [Good Advices](/shows/goodadvices/)
       
       06PM | [Jams and Jive](/shows/jamsandjive/)
 
       07PM | [Saturday Night Dance Party](/shows/saturdaynightdanceparty/)
+      
   - title: Sunday  
     text: >-
       12AM | [The Midnight Mix](/shows/midnightmix/)
@@ -68,22 +69,22 @@ sidebar:
 
       05AM | [Good Advices](/shows/goodadvices/)
 
-      06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+      
+      06AM | [The Ageless Wisdom](/shows/agelesswisdom/)
+      
+      07AM | [Breakfast With The Beatles](/shows/bwtb/)
       
       09AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
-      10AM | [Breakfast With The Beatles](/shows/bwtb/)
+      10AM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
       
-      12PM | [The Ageless Wisdom](/shows/agelesswisdom/)
-      
-      01PM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
-      
-      02PM | The Gabbing Good Fight
+      11AM | [Voices & Flow](/shows/voicesandflow/)
       
       03PM | [Bites With Trixie](/shows/biteswithtrixie/)
       
-      04PM | [Voices & Flow](/shows/voicesandflow/)
-
+      01PM | KVCM Spotlight
+      
       05PM | [Good Advices](/shows/goodadvices/)
       
       06PM | [Jams and Jive](/shows/jamsandjive/)
