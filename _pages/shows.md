@@ -51,7 +51,7 @@ sidebar:
       
       11AM | [Voices & Flow](/shows/voicesandflow/)
       
-      03PM | [Bites With Trixie](/shows/biteswithtrixie/)
+      12PM | [Bites With Trixie](/shows/biteswithtrixie/)
       
       01PM | KVCM Spotlight
       
@@ -81,7 +81,7 @@ sidebar:
       
       11AM | [Voices & Flow](/shows/voicesandflow/)
       
-      03PM | [Bites With Trixie](/shows/biteswithtrixie/)
+      12PM | [Bites With Trixie](/shows/biteswithtrixie/)
       
       01PM | KVCM Spotlight
       
