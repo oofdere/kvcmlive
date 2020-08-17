@@ -8,7 +8,7 @@ sidebar:
   title: ''
 - title: 5AM & 5PM Weekdays
   image: ''
-- title: 4PM Sat & Sun
+- title: 11AM Sat & Sun
   image: ''
 - title: Genres
   text: Talk, Podcast, Spoken Word
