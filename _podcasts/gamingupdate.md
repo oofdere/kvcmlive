@@ -1,5 +1,5 @@
 ---
-title: "Sports Highlights"
+title: "Gaming Update"
 excerpt: ""
 header:
   teaser: /assets/images/GamingUpdate.png
