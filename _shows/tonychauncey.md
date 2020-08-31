@@ -10,4 +10,4 @@ sidebar:
     text: "Talk, Soul, Singer-Songwriter"
 ---
 
-Jams and Jive is co-hosted by The Good Foot's Bosco Bonetti and Rhythm and Views host Dr. Lovey who discuss current events, their own lives, and play hits from a variety of genres from yesteryear through today.
+Host Tony Chauncey plays his own songs as well as music by his soulful, celebrity friends who share exclusive stories with Tony and his listeners.
