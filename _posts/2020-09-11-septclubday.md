@@ -1,5 +1,5 @@
 ---
-title: "Join Us For A Live Broadcast September 30th!"
+title: "Be A Part Of Our Next Live Broadcast September 30th!"
 ---
 
 Join Tristan & Freinds including Ozzie & Remy for a live remote broadcast Wednesday, September 30th from 1-3 PM for ASU Club day afternoon edition.
