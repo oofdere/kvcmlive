@@ -7,4 +7,5 @@ sidebar:
   - image: /assets/images/RemoteBroadcasts.png
 ---
 
-KVCM Remote Broadcasts.
+The Broadcasting Club's live remote broadcasts from ASU Club Days feature music, information, and interviews to inform students about events happening at LAVC.
+
