@@ -7,4 +7,4 @@ sidebar:
   - image: /assets/images/TheValleyStarPodcastt.png
 ---
 
-This is the home of The Valley Star Podcast.
+A podcast based on news, sports, and entertainment revolving around Los Angeles Valley College and our Journalism students.
