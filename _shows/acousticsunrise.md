@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/AcousticSunrise.png"
 sidebar:
   - image: "/assets/images/AcousticSunrise.png"
-  - title: "5AM - 6AM Sat & Sun"
+  - title: "6AM Sat & Sun"
   - title: "Genres"
     text: "Acoustic, Singer/Songwriter, Soft Rock"
 ---
