@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/TheAgelessWisdom.png
 sidebar:
   - image: /assets/images/TheAgelessWisdom.png
-  - title: "6AM Sat & Sun"
+  - title: "5AM Sat & Sun"
   - title: "Genres"
     text: "Talk, Personal Development"
 ---
