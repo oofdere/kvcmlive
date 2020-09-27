@@ -12,19 +12,20 @@ sidebar:
       
       01AM & 01PM | [Music Motif](/shows/musicmotif/)
       
-      02AM & 02PM | [False Idols](/shows/falseidols/)
+      02AM & 02PM | [MultiTrack Revolution](/shows/mtr/)
       
       03AM & 03PM | [The Audio Playground](/shows/audioplayground/)
       
-      04AM & 04PM | [Permanent Damage](/shows/permanentdamage/)
+      04AM & 04PM | [Permanent Damage](/shows/permanentdamage/) &
+                    [Bites With Trixie](/shows/biteswithtrixie/)
       
       05AM & 05PM | [Voices & Flow](/shows/voicesandflow/)
       
-      06AM & 06PM | [Just Keep It Movin’…*Powerfully!*](/shows/jkimp/)
+      06AM & 06PM | [The Valley Star Podcast](/podcasts/valleystar/)
       
       07AM & 07PM | [Rhythm & Views](/shows/rhythmandviews/)
       
-      08AM & 08PM | [MultiTrack Revolution](/shows/mtr/)
+      08AM & 08PM | 80's At Eight
       
       09AM & 09PM | [The Audio Playground](/shows/audioplayground/)
       
