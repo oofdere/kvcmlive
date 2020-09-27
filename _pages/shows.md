@@ -38,27 +38,33 @@ sidebar:
       
       01AM | [The Audio Playground](/shows/audioplayground/)
 
-      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+      05AM | [The Ageless Wisdom](/shows/agelesswisdom/)
       
-      06AM | [The Ageless Wisdom](/shows/agelesswisdom/)
-      
-      07AM | [Breakfast With The Beatles](/shows/bwtb/)
+      06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
       
       09AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
-      10AM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
+      10AM | [Breakfast With The Beatles](/shows/bwtb/)
       
-      11AM | [Voices & Flow](/shows/voicesandflow/)
+      12PM | [The Valley Star Podcast](/podcasts/valleystar/)
       
-      12PM | [Bites With Trixie](/shows/biteswithtrixie/)
+      01PM | Tristan & Friends (Broadcasting Club)
       
-      01PM | KVCM Spotlight
+      02PM | Tristan & Friends (Broadcasting Club)
       
-      05PM | [Good Advices](/shows/goodadvices/)
+      03PM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
       
-      06PM | [Jams and Jive](/shows/jamsandjive/)
+      04PM | [Just Keep It Movin’…*Powerfully!*](/shows/jkimp/)
+      
+      05PM | [False Idols](/shows/falseidols/)
 
-      07PM | [Saturday Night Dance Party](/shows/saturdaynightdanceparty/)
+      06PM | [Saturday Night Dance Party](/shows/saturdaynightdanceparty/)
+      
+      09PM | [The Tony Chauncey Show](/shows/tonychauncey/)
+      
+      10PM | [Jams and Jive](/shows/jamsandjive/)
+      
+      11PM | [Good Advices](/shows/goodadvices/)
       
   - title: Sunday  
     text: >-
@@ -66,25 +72,31 @@ sidebar:
       
       01AM | [The Audio Playground](/shows/audioplayground/)
 
-      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+      05AM | [The Ageless Wisdom](/shows/agelesswisdom/)
       
-      06AM | [The Ageless Wisdom](/shows/agelesswisdom/)
-      
-      07AM | [Breakfast With The Beatles](/shows/bwtb/)
+      06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
       
       09AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
-      10AM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
+      10AM | [Breakfast With The Beatles](/shows/bwtb/)
       
-      11AM | [Voices & Flow](/shows/voicesandflow/)
+      12PM | [The Valley Star Podcast](/podcasts/valleystar/)
       
-      12PM | [Bites With Trixie](/shows/biteswithtrixie/)
+      01PM | Tristan & Friends (Broadcasting Club)
       
-      01PM | KVCM Spotlight
+      02PM | Tristan & Friends (Broadcasting Club)
       
-      05PM | [Good Advices](/shows/goodadvices/)
+      03PM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
       
-      06PM | [Jams and Jive](/shows/jamsandjive/)
+      04PM | [Just Keep It Movin’…*Powerfully!*](/shows/jkimp/)
       
-      07PM | [Sunday Night Oldies](/shows/sundaynightoldies/)
+      05PM | [False Idols](/shows/falseidols/)
+      
+      06PM | [Sunday Night Oldies](/shows/sundaynightoldies/)
+      
+      09PM | [The Tony Chauncey Show](/shows/tonychauncey/)
+      
+      10PM | [Jams and Jive](/shows/jamsandjive/)
+      
+      11PM | [Good Advices](/shows/goodadvices/)
 ---
