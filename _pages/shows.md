@@ -16,9 +16,7 @@ sidebar:
       
       03AM & 03PM | [The Audio Playground](/shows/audioplayground/)
       
-      04AM & 04PM | [Permanent Damage](/shows/permanentdamage/) &
-      
-      [Bites With Trixie](/shows/biteswithtrixie/)
+      04AM & 04PM | [Permanent Damage](/shows/permanentdamage/) & [Bites With Trixie](/shows/biteswithtrixie/)
       
       05AM & 05PM | [Voices & Flow](/shows/voicesandflow/)
       
