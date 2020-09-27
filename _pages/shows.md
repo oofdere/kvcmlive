@@ -47,9 +47,9 @@ sidebar:
       
       12PM | [The Valley Star Podcast](/podcasts/valleystar/)
       
-      01PM | [Tristan & Friends] (/podcasts/remotebroadcasts/)
+      01PM | [Tristan & Friends](/podcasts/remotebroadcasts/)
       
-      02PM | [Tristan & Friends] (/podcasts/remotebroadcasts/)
+      02PM | [Tristan & Friends](/podcasts/remotebroadcasts/)
       
       03PM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
       
@@ -81,9 +81,9 @@ sidebar:
       
       12PM | [The Valley Star Podcast](/podcasts/valleystar/)
       
-      01PM | [Tristan & Friends] (/podcasts/remotebroadcasts/)
+      01PM | [Tristan & Friends](/podcasts/remotebroadcasts/)
       
-      02PM | [Tristan & Friends] (/podcasts/remotebroadcasts/)
+      02PM | [Tristan & Friends](/podcasts/remotebroadcasts/)
       
       03PM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
       
