@@ -18,7 +18,7 @@ sidebar:
       
       04AM & 04PM | [Permanent Damage](/shows/permanentdamage/) &
       
-                    [Bites With Trixie](/shows/biteswithtrixie/)
+      [Bites With Trixie](/shows/biteswithtrixie/)
       
       05AM & 05PM | [Voices & Flow](/shows/voicesandflow/)
       
