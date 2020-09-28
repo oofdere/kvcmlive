@@ -24,7 +24,7 @@ sidebar:
       
       07AM & 07PM | [Rhythm & Views](/shows/rhythmandviews/)
       
-      08AM & 08PM | 80's At Eight
+      08AM & 08PM | [80's At Eight](/shows/80sateight/)
       
       09AM & 09PM | [The Audio Playground](/shows/audioplayground/)
       
