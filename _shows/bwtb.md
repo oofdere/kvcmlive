@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/bwtb_waifu2x.png
 sidebar:
   - image: /assets/images/bwtb_waifu2x.png
-  - title: "7AM - 9AM Sat & Sun"
+  - title: "10AM - 12PM Sat & Sun"
   - title: "Genres"
     text: "Oldies"
     image_alt: "logo"
