@@ -16,9 +16,9 @@ sidebar:
       
       03AM & 03PM | [The Audio Playground](/shows/audioplayground/)
       
-      04AM & 04PM | [Permanent Damage](/shows/permanentdamage/) & [Bites With Trixie](/shows/biteswithtrixie/)
+      04AM & 04PM | [Voices & Flow](/shows/voicesandflow/) & News & Views
       
-      05AM & 05PM | [Voices & Flow](/shows/voicesandflow/)
+      05AM & 05PM | [Permanent Damage](/shows/permanentdamage/) & [Bites With Trixie](/shows/biteswithtrixie/)
       
       06AM & 06PM | [The Valley Star Podcast](/podcasts/valleystar/)
       
