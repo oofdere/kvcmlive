@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/goodadvices.png
 sidebar:
   - image: /assets/images/goodadvices.png
-  - title: "5PM Sat & Sun"
+  - title: "11PM Sat & Sun"
   - title: "Genres"
     text: "Talk, Advice, Adult Humor"
 ---
