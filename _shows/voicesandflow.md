@@ -6,9 +6,7 @@ header:
 sidebar:
 - image: "/assets/images/VoicesFlow.png"
   title: ''
-- title: 5AM & 5PM Weekdays
-  image: ''
-- title: 11AM Sat & Sun
+- title: 4AM & 4PM Weekdays
   image: ''
 - title: Genres
   text: Talk, Podcast, Spoken Word
