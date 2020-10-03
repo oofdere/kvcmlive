@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/PermanentDamage.png
 sidebar:
   - image: /assets/images/PermanentDamage.png
-  - title: "5AM & 5PM Weekdays"
+  - title: "4AM & 4PM Weekdays"
   - title: "Genres"
     text: "Entertainment, Media, Streaming"
 ---
