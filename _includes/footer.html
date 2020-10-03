@@ -14,15 +14,14 @@
   
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     </ul>
+      <a href="https://www.lavc.edu/asu/index.aspx"><img src="/assets/images/LAVC-ASU-Icon.png" alt="LAVC ASU" width="170px" height="75px></a>
+
+      <a href="https://www.thevalleystarnews.com/"><img src="/assets/images/Valley-Star-Icon.png" alt="Valley Star" width="170px" height="75px"></a>
   </div>
 
   <meta http-equiv="Cache-Control" content="public">
 
-  <div class="page__footer-copyright">The views expressed on this station do not necessarily reflect those of LAVC or the LACCD.
-      
-  <a href="https://www.lavc.edu/asu/index.aspx"><img src="/assets/images/LAVC-ASU-Icon.png" alt="LAVC ASU" width="170px" height="75px></a>
-
-  <a href="https://www.thevalleystarnews.com/"><img src="/assets/images/Valley-Star-Icon.png" alt="Valley Star" width="170px" height="75px"></a></div>
+  <div class="page__footer-copyright">The views expressed on this station do not necessarily reflect those of LAVC or the LACCD.</div>
   
   <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} KVCM Broadcasting. <a href="/osl" rel="nofollow"><u>Open Source Licenses</u></a></div>
   
