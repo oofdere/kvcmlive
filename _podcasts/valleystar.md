@@ -6,6 +6,8 @@ header:
 sidebar:
   - image: /assets/images/TheValleyStarPodcast.png
   - title: "6AM & 6PM Weekdays"
+    image: ''
+  - title: "12PM Sat & Sun"
   - title: "Genres"
     text: "Podcast"
 ---
