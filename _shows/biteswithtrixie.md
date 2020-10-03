@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/BitesWithTrixie.png
 sidebar:
   - image: /assets/images/BitesWithTrixie.png
-  - title: "12PM Sat & Sun"
+  - title: "5AM & 5PM Weekdays"
   - title: "Genres"
     text: "Talk, Food, Podcast"
 ---
