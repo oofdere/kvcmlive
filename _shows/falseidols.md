@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/FalseIdols.png
 sidebar:
   - image: /assets/images/FalseIdols.png
-  - title: "2AM & 2PM Weekdays"
+  - title: "5PM Saturday & Sunday"
   - title: "Genres"
     text: "Proto-Punk, Pop, Rock n' Roll"
 ---
