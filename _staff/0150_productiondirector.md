@@ -1,6 +1,6 @@
 ---
 short_name: operationsmanager
 name: Belen
-position: Production Director<br>Voice Over
+position: Social Media Director<br>Production Director
 image: /assets/images/staff/Belen.png
 ---
