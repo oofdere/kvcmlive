@@ -1,6 +1,6 @@
 ---
 short_name: campustalkdirector
 name: Osmin Flamenco
-position: Campus Talk Director
+position: Production Director<br>Campus Talk Host
 image: /assets/images/staff/OzzieFlamenco.png
 ---
