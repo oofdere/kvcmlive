@@ -7,3 +7,7 @@ Join The Broadcasting Club Live! including Tristan, Ozzie, and Remy for a remote
 Join the Oct 21, 2020 01:00 PM session at: <a href="https://laccd.zoom.us/meeting/register/tJEvce6rqjouGNbT3krEQ6UkvuBRHjWbQUx9">https://laccd.zoom.us/meeting/register/tJEvce6rqjouGNbT3krEQ6UkvuBRHjWbQUx9</a>
 
 Join The Broadcasting Club Live! including Ron, Nichole, and Bosco for a second live remote broadcast Wednesday, October 21st from 5-7 PM for the ASU Virtual Club Day evening edition.
+
+Join the Oct 21, 2020 05:00 PM session at:
+
+<a href="https://laccd.zoom.us/meeting/register/tJckdO6sqjIrHdOcuYYHO5XhqwApuLRhONpY">https://laccd.zoom.us/meeting/register/tJckdO6sqjIrHdOcuYYHO5XhqwApuLRhONpY</a>
