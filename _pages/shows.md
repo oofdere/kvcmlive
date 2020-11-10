@@ -18,7 +18,7 @@ sidebar:
       
       04AM & 04PM | [Voices & Flow](/shows/voicesandflow/)
       
-      05AM & 05PM | [Permanent Damage](/shows/permanentdamage/) & [Bites With Trixie](/shows/biteswithtrixie/)
+      05AM & 05PM | [Live At 5](/shows/liveat5/)
       
       06AM & 06PM | [The Valley Star Podcast](/podcasts/valleystar/)
       
