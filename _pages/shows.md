@@ -22,6 +22,8 @@ sidebar:
       
       06AM & 06PM | [The Valley Star Podcast](/podcasts/valleystar/)
       
+      06:30AM & 06:30PM | [KVCM Family Podcast](/podcasts/kvcmfamily/)
+      
       07AM & 07PM | [Rhythm & Views](/shows/rhythmandviews/)
       
       08AM & 08PM | [80's At Eight](/shows/80sateight/)
