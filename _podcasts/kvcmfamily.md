@@ -7,4 +7,4 @@ sidebar:
   - image: /assets/images/KVCMFamilyPodcast.png
 ---
 
-This is the KVCM Family Podcast.
+The KVCM Family Podcast is an idea that was developed from the Fall 2020 LAVC Broadcasting All-Stars who have managed to be creative and current during the pandemic. The Podcast has a different host each week and varying subject matter depending on what is on the minds of our advanced KVCM.Live student staff.
