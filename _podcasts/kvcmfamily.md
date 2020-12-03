@@ -2,9 +2,9 @@
 title: "KVCM Family Podcast"
 excerpt: ""
 header:
-  teaser: /assets/images/KVCMFamilyPodcast.png
+  teaser: /assets/images/FamilyPodcast.png
 sidebar:
-  - image: /assets/images/KVCMFamilyPodcast.png
+  - image: /assets/images/FamilyPodcast.png
   - title: "6:30AM & 6:30PM Weekdays"
     image: ''
   - title: "Genres"
