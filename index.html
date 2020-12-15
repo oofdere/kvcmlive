@@ -80,3 +80,10 @@ layout: default
 </script>
 
 <div class="popout"><a href="https://player.twitch.tv/?channel=kvcmradio&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&volume=1" onclick="window.open('https://player.twitch.tv/?channel=kvcmradio&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&volume=1','popup','width=600,height=600,scrollbars=no,resizable=no'); player.pause(); return false;" class="btn btn--primary">Pop-out player (beta)</a></div>
+
+<script type="module">
+  import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+
+  const el = document.createElement('pwa-update');
+  document.body.appendChild(el);
+</script>

@@ -166,12 +166,6 @@ title_separator: "|"
 
 teaser: /assets/images/placeholder.jpg
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-170148363-1"
-    anonymize_ip: false # default
-
 twitter:
   username: "kvcmlive"
 
