@@ -39,7 +39,7 @@ sidebar:
       
       01AM | [The Audio Playground](/shows/audioplayground/)
 
-      05AM | [The Ageless Wisdom](/shows/agelesswisdom/)
+      05AM | [Surf's Up](/shows/surfsup/)
       
       06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
       
@@ -73,7 +73,7 @@ sidebar:
       
       01AM | [The Audio Playground](/shows/audioplayground/)
 
-      05AM | [The Ageless Wisdom](/shows/agelesswisdom/)
+      05AM | [Surf's Up](/shows/surfsup/)
       
       06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
       
