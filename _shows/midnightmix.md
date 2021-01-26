@@ -10,4 +10,4 @@ sidebar:
     text: "EDM, Rock, Pop, Funk, Hip-Hop"
 ---
 
-Midnight Mix is a radio show that features special club mixes of songs from the back in the day to today. It is hosted and mixed by Tajibeats.
+The Midnight Mix is a radio show that features special club mixes of songs from the back in the day to today. It is hosted and mixed by Tajibeats.
