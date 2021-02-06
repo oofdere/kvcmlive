@@ -1,4 +1,3 @@
-@@ -0,0 +1,6 @@
 ---
 
 title: "KVCM Wants You!"
