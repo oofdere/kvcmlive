@@ -25,6 +25,10 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/kvcmlive95.1"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/kvcm/"
+      
   bio: >-
     KVCM Radio<br/>
     Attn: Station Manager<br/>
