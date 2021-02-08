@@ -37,11 +37,15 @@ sidebar:
     text: >-
       12AM | [The Midnight Mix](/shows/midnightmix/)
       
-      01AM | [The Audio Playground](/shows/audioplayground/)
-
-      05AM | [Surf's Up](/shows/surfsup/)
+      02AM | [Saturday Morning Jazz](/shows/saturdaymorningjazz/)
       
-      06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+      04AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+      
+      06AM | [Surf's Up](/shows/surfsup/)
+
+      07AM | [The Ageless Wisdom](/shows/agelesswisdom/)
+      
+      08AM | [GRateful Dead Hour](/shows/gratefuldeadhour/)
       
       09AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
