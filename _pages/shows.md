@@ -14,11 +14,11 @@ sidebar:
       
       02AM & 02PM | [MultiTrack Revolution](/shows/mtr/)
       
-      03AM & 03PM | [The Audio Playground](/shows/audioplayground/)
+      03AM & 03PM | [False Idols](/shows/falseidols/)
       
       04AM & 04PM | [Voices & Flow](/shows/voicesandflow/)
       
-      05AM & 05PM | [Live At 5](/shows/liveat5/)
+      05AM & 05PM | [Just Keep It Movin’…*Powerfully!*](/shows/jkimp/)
       
       06AM & 06PM | [The Valley Star Podcast](/podcasts/valleystar/)
       
@@ -26,7 +26,7 @@ sidebar:
       
       07AM & 07PM | [Rhythm & Views](/shows/rhythmandviews/)
       
-      08AM & 08PM | [80's At Eight](/shows/80sateight/)
+      08AM & 08PM | [The Tony Chauncey Show](/shows/tonychauncey/)
       
       09AM & 09PM | [The Audio Playground](/shows/audioplayground/)
       
