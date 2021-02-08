@@ -57,8 +57,6 @@ sidebar:
       
       04PM | [News and Views]
       
-      05PM | [News and Views]
-      
       06PM | [KVCM Family Podcast](/podcasts/kvcmfamily/)
 
       07PM | [Club KVCM Live]
@@ -90,8 +88,6 @@ sidebar:
       01PM | [Remote Broadcasts](/podcasts/remotebroadcasts/)
       
       04PM | [News and Views]
-      
-      05PM | [News and Views]
       
       06PM | [KVCM Family Podcast](/podcasts/kvcmfamily/)
 
