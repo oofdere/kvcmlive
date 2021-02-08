@@ -45,7 +45,7 @@ sidebar:
 
       07AM | [The Ageless Wisdom](/shows/agelesswisdom/)
       
-      08AM | [GRateful Dead Hour](/shows/gratefuldeadhour/)
+      08AM | [Grateful Dead Hour](/shows/gratefuldeadhour/)
       
       09AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
@@ -55,31 +55,31 @@ sidebar:
       
       01PM | [Remote Broadcasts](/podcasts/remotebroadcasts/)
       
-      02PM | [Remote Broadcasts](/podcasts/remotebroadcasts/)
+      04PM | [News and Views]
       
-      03PM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
+      05PM | [News and Views]
       
-      04PM | [Just Keep It Movin’…*Powerfully!*](/shows/jkimp/)
-      
-      05PM | [False Idols](/shows/falseidols/)
+      06PM | [KVCM Family Podcast](/podcasts/kvcmfamily/)
 
-      06PM | [Saturday Night Dance Party](/shows/saturdaynightdanceparty/)
+      07PM | [Club KVCM Live]
       
-      09PM | [The Tony Chauncey Show](/shows/tonychauncey/)
+      09PM | [The Audio Playground](/shows/audioplayground/)
       
-      10PM | [Jams and Jive](/shows/jamsandjive/)
-      
-      11PM | [Good Advices](/shows/goodadvices/)
+      10PM | [Saturday Night Dance Party](/shows/saturdaynightdanceparty/)
       
   - title: Sunday  
     text: >-
       12AM | [The Midnight Mix](/shows/midnightmix/)
       
-      01AM | [The Audio Playground](/shows/audioplayground/)
-
-      05AM | [Surf's Up](/shows/surfsup/)
+      02AM | [Sunday Morning Blues](/shows/sundaymorningblues/)
       
-      06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+      04AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+      
+      06AM | [Surf's Up](/shows/surfsup/)
+
+      07AM | [The Ageless Wisdom](/shows/agelesswisdom/)
+      
+      08AM | [Grateful Dead Hour](/shows/gratefuldeadhour/)
       
       09AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
@@ -89,19 +89,16 @@ sidebar:
       
       01PM | [Remote Broadcasts](/podcasts/remotebroadcasts/)
       
-      02PM | [Remote Broadcasts](/podcasts/remotebroadcasts/)
+      04PM | [News and Views]
       
-      03PM | [The Valley College Connection](/podcasts/valleycollegeconnection/)
+      05PM | [News and Views]
       
-      04PM | [Just Keep It Movin’…*Powerfully!*](/shows/jkimp/)
+      06PM | [KVCM Family Podcast](/podcasts/kvcmfamily/)
+
+      07PM | [Club KVCM Live]
       
-      05PM | [False Idols](/shows/falseidols/)
+      09PM | [The Audio Playground](/shows/audioplayground/)
       
-      06PM | [Sunday Night Oldies](/shows/sundaynightoldies/)
+      10PM | [Sunday Night Oldies](/shows/sundaynightoldies/)
       
-      09PM | [The Tony Chauncey Show](/shows/tonychauncey/)
-      
-      10PM | [Jams and Jive](/shows/jamsandjive/)
-      
-      11PM | [Good Advices](/shows/goodadvices/)
 ---
