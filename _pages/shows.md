@@ -55,11 +55,11 @@ sidebar:
       
       01PM | [Remote Broadcasts](/podcasts/remotebroadcasts/)
       
-      04PM | [News and Views](/podcasts/newsandviews/)
+      04PM | [News and Views](/shows/newsandviews/)
       
       06PM | [KVCM Family Podcast](/podcasts/kvcmfamily/)
 
-      07PM | [Club KVCM Live](/podcasts/clubkvcmlive/)
+      07PM | [Club KVCM Live](/shows/clubkvcmlive/)
       
       09PM | [The Audio Playground](/shows/audioplayground/)
       
@@ -87,11 +87,11 @@ sidebar:
       
       01PM | [Remote Broadcasts](/podcasts/remotebroadcasts/)
       
-      04PM | [News and Views]
+      04PM | [News and Views](/shows/newsandviews/)
       
       06PM | [KVCM Family Podcast](/podcasts/kvcmfamily/)
 
-      07PM | [Club KVCM Live]
+      07PM | [Club KVCM Live](/shows/clubkvcmlive/)
       
       09PM | [The Audio Playground](/shows/audioplayground/)
       
