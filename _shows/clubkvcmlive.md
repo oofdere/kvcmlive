@@ -7,7 +7,7 @@ sidebar:
   - image: "/assets/images/ClubKVCMLive.png"
   - title: "7PM Sat & Sun"
   - title: "Genres"
-    text: "Acoustic, Singer/Songwriter, Soft Rock"
+    text: "Live"
 ---
 
 Club KVCM Live
