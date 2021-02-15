@@ -10,4 +10,4 @@ sidebar:
     text: "Live"
 ---
 
-Club KVCM Live
+Club KVCM Live is a music-based program where students can DJ, host, and mix their favorite music into live sets featuring all different types of formats.
