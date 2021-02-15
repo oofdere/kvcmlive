@@ -10,4 +10,4 @@ sidebar:
     text: "News, Views"
 ---
 
-The News and Views show.
+KVCM News & Views is a talk program that allows students to broadcast a combination of news, sports, and entertainment along with their own opinions and editorials on the subjects of the day..
