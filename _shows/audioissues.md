@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/AudioIssues.png
 sidebar:
   - image: /assets/images/AudioIssues.png
-  - title: "4PM Saturday & Sunday"
+  - title: "4PM Sat & Sun"
   - title: "Genres"
     text: "Eclectic, Talk"
 ---
