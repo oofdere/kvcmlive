@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/SportsViews.png"
 sidebar:
   - image: "/assets/images/SportsViews.png"
-  - title: ""
+  - title: "7AM & 7PM Weekdays"
   - title: "Genres"
     text: "Talk, Sports, Views"
 ---
