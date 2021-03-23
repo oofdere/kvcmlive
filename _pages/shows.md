@@ -8,93 +8,103 @@ classes: wide
 sidebar: 
   - title: Monday-Friday
     text: >- # this means to ignore newlines until "baseurl:"  
-      12AM & 12PM | [The Good Foot](/shows/goodfoot/)
-      
-      01AM & 01PM | [Music Motif](/shows/musicmotif/)
-      
-      02AM & 02PM | [MultiTrack Revolution](/shows/mtr/)
-      
-      03AM & 03PM | [False Idols](/shows/falseidols/)
-      
-      04AM & 04PM | [Voices & Flow](/shows/voicesandflow/)
-      
-      05AM & 05PM | [Just Keep It Movin’…*Powerfully!*](/shows/jkimp/)
-      
-      06AM & 06PM | [The Valley Star Podcast](/podcasts/valleystar/)
-      
-      06:30AM & 06:30PM | [KVCM Family Podcast](/podcasts/kvcmfamily/)
-      
-      07AM & 07PM | [Rhythm & Views](/shows/rhythmandviews/)
-      
-      08AM & 08PM | [The Tony Chauncey Show](/shows/tonychauncey/)
-      
-      09AM & 09PM | [The Audio Playground](/shows/audioplayground/)
-      
-      10AM & 10PM | [The Stereo Deli Show](/shows/stereodeli/)
-      
-      11AM & 11PM | [Musicology 101](/shows/musicology101/)
+      12AM | [The Good Foot](/shows/goodfoot/)
+  
+      01AM | [Music Motif](/shows/musicmotif/)
+  
+      02AM | [Audio Playground](/shows/audioplayground/)
+  
+      03AM | [Audio Playground Unplugged](/shows/audioplayground/)
+  
+      04AM | [Rhythm & Views](/shows/rhythmandviews/)
+
+      05AM | Live at Five
+
+      06AM | [News & Views](/shows/newsandviews)
+
+      07AM | [Sports & Views](/shows/sportsviews)
+
+      08AM | [Audio Playground](/shows/audioplayground/)
+
+      09AM | [Audio Playground Unplugged](/shows/audioplayground/)
+
+      10AM | Music Mix
+
+      02PM | [Audio Playground](/shows/audioplayground/)
+
+      03PM | [Audio Playground Unplugged](/shows/audioplayground/)
+
+      04PM | [Rhythm & Views](/shows/rhythmandviews/)
+
+      05PM | Live at Five
+
+      06PM | [News & Views](/shows/newsandviews)
+
+      07PM | [Sports & Views](/shows/sportsviews)
+
+      08PM | [Multitrack Revolution](/shows/mtr)
+
+      09PM | [Tony Chauncey Show](/shows/tonychauncey)
+
+      10PM | [Stereo Deli](/shows/stereodeli)
+
+      11PM | [Musicology 101](/shows/musicology101)
   - title: Saturday
     text: >-
-      12AM | [The Midnight Mix](/shows/midnightmix/)
+      12AM | [Grateful Dead Hour](/shows/gratefuldeadhour/)
       
-      02AM | [Saturday Morning Jazz](/shows/saturdaymorningjazz/)
-      
-      04AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
-      
-      06AM | [Surf's Up](/shows/surfsup/)
+      01AM | [The Ageless Wisdom](/shows/agelesswisdom/)
 
-      07AM | [The Ageless Wisdom](/shows/agelesswisdom/)
+      02AM | [Saturday Morning Jazz](/shows/saturdaymorningjazz)
       
-      08AM | [Grateful Dead Hour](/shows/gratefuldeadhour/)
+      05AM | [Surf's Up](/shows/surfsup/)
+
+      06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
       
       09AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
       10AM | [Breakfast With The Beatles](/shows/bwtb/)
       
-      12PM | [The Valley Star Podcast](/podcasts/valleystar/)
-      
-      01PM | [Remote Broadcasts](/podcasts/remotebroadcasts/)
-      
-      04PM | [News and Views](/shows/newsandviews/)
-      
-      06PM | [KVCM Family Podcast](/podcasts/kvcmfamily/)
+      12PM | Roundtable Session Live
 
-      07PM | [Club KVCM Live](/shows/clubkvcmlive/)
+      02PM | Lloyd's Desk
+
+      03PM | Radios Magical
+
+      04PM | [Audio Issues Live](/shows/audioissues/)
+
+      06PM | KC & Robyn @ [Club KVCM Live](/shows/clubkvcmlive/)
       
-      09PM | [The Audio Playground](/shows/audioplayground/)
+      08PM | Ozzie @ [Club KVCM Live](/shows/clubkvcmlive/)
       
-      10PM | [Saturday Night Dance Party](/shows/saturdaynightdanceparty/)
+      10PM | Tajibeats @ [Club KVCM Live](/shows/clubkvcmlive/)
       
   - title: Sunday  
     text: >-
-      12AM | [The Midnight Mix](/shows/midnightmix/)
+      12AM | [Grateful Dead Hour](/shows/gratefuldeadhour/)
       
-      02AM | [Sunday Morning Blues](/shows/sundaymorningblues/)
-      
-      04AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
-      
-      06AM | [Surf's Up](/shows/surfsup/)
+      01AM | [The Ageless Wisdom](/shows/agelesswisdom/)
 
-      07AM | [The Ageless Wisdom](/shows/agelesswisdom/)
+      02AM | [Sunday Morning Blues](/shows/sundaymorningblues)
       
-      08AM | [Grateful Dead Hour](/shows/gratefuldeadhour/)
+      05AM | [Surf's Up](/shows/surfsup/)
+
+      06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
       
       09AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
       10AM | [Breakfast With The Beatles](/shows/bwtb/)
-      
-      12PM | [The Valley Star Podcast](/podcasts/valleystar/)
-      
-      01PM | [Remote Broadcasts](/podcasts/remotebroadcasts/)
-      
-      04PM | [News and Views](/shows/newsandviews/)
-      
-      06PM | [KVCM Family Podcast](/podcasts/kvcmfamily/)
 
-      07PM | [Club KVCM Live](/shows/clubkvcmlive/)
-      
-      09PM | [The Audio Playground](/shows/audioplayground/)
-      
-      10PM | [Sunday Night Oldies](/shows/sundaynightoldies/)
+      12PM | Real Talk Live
+
+      02PM | The Sunday Recap Live
+
+      04PM | [Valley Girls Live](/shows/valleygirls)
+
+      06PM | Soulful Hearts Live
+
+      08PM | [Stereo Deli Show Live](/shows/stereodeli)
+
+      10PM | [Multitrack Revolution Live](/shows/mtr)
       
 ---
