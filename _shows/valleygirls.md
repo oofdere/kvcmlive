@@ -2,10 +2,10 @@
 title: "Valley Girls"
 excerpt: ""
 header:
-  teaser: "/assets/images/ValeyGirls.png"
+  teaser: "/assets/images/ValleyGirls.png"
 sidebar:
   - image: "/assets/images/ValleyGirls.png"
-  - title: "6AM Sat & Sun"
+  - title: ""
   - title: "Genres"
     text: "Talk, Eclectic, Views"
 ---
