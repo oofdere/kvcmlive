@@ -2,7 +2,7 @@
 title: "Sports & Views"
 excerpt: ""
 header:
-  teaser: "/assets/images/SpotsViews.png"
+  teaser: "/assets/images/SportsViews.png"
 sidebar:
   - image: "/assets/images/SportsViews.png"
   - title: ""
