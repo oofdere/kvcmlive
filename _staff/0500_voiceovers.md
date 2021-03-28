@@ -1,6 +1,6 @@
 ---
 short_name: voiceovers
-name: Ross Bauer
+name: Robin Soltis
 position: Station Voice
-image: /assets/images/staff/Ross.png
+image: /assets/images/staff/RobinSoltis.png
 ---
