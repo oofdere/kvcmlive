@@ -67,9 +67,9 @@ sidebar:
       
       12PM | Roundtable Session Live
 
-      02PM | Lloyd's Desk
+      02PM | Radios Magical
 
-      03PM | Radios Magical
+      03PM | Lloyd's Desk
 
       04PM | [Audio Issues Live](/shows/audioissues/)
 
