@@ -5,8 +5,8 @@ main:
     url: /shows/
   - title: "Podcasts"
     url: /podcasts/
-  - title: "Events"
-    url: /news/
+#  - title: "Events"
+#    url: /news/
   - title: "Staff"
     url: /staff/
   - title: "Alumni"
