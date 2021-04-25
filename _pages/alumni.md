@@ -19,7 +19,7 @@ Michael L Straus (Mike on the Mike)<br>
 1990-1992<br>
 Host of the OG GM Adventures on YouTube, part of the Legion of Myth, and working screenwriter
 
-Teri Pierce "Miss T”<br>
+Teri Pierce (Miss T)<br>
 2016-2018<br>
 Host, DJ, Production
 
