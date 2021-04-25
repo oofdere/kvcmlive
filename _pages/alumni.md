@@ -7,6 +7,22 @@ Welcome to our Alumni page of student DJs, station staff, and club officers who 
 
 To reach any of our KVCM alumni send an email to <a href="mailto:kvcm@lavc.edu">kvcm@lavc.edu</a> with the alum's name in the subject line.
 
+Tricia Cruz<br>
+2017<br>
+iHeart, Playboy Radio and KNX News Radio
+
+Krystal Hill<br>
+2013-2015<br>
+Currently: Producer - The Steve Harvey Morning Show; Podcast Producer - Black Love Inc.
+
+Michael L Straus (Mike on the Mike)<br>
+1990-1992<br>
+Host of the OG GM Adventures on YouTube, part of the Legion of Myth, and working screenwriter
+
+Teri Pierce "Miss T”<br>
+2016-2018<br>
+Host, DJ, Production
+
 Tully Diö<br>
 2016-1019<br>
 Music director/host of the Outlaws of Rock music podcast and The Outlaws of Rock Music Video Show
