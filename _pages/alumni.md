@@ -23,6 +23,14 @@ Teri Pierce (Miss T)<br>
 2016-2018<br>
 Host, DJ, Production
 
+Erika Miranda<br>
+2010-2012<br>
+KPFK
+
+Schiffy<br>
+2007-2010<br>
+Multimedia Teacher
+
 Tully Diö<br>
 2016-1019<br>
 Music director/host of the Outlaws of Rock music podcast and The Outlaws of Rock Music Video Show
