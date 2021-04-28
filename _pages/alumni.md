@@ -7,6 +7,8 @@ Welcome to our Alumni page of student DJs, station staff, and club officers who 
 
 To reach any of our KVCM alumni send an email to <a href="mailto:kvcm@lavc.edu">kvcm@lavc.edu</a> with the alum's name in the subject line.
 
+If you are a KVCM Alumni and had a radio show, staff position, were part of the Broadcasting club, and/or are a radio broadcasting department graduate, please fill out this <a href="https://forms.gle/m118i8NLmyNSYZ9f8">short form</a> so we can acknowledge your contributions.
+
 Tricia Cruz<br>
 2017<br>
 iHeart, Playboy Radio and KNX News Radio
