@@ -41,6 +41,9 @@ Osmin (Ozzie) Flamenco<br>
 2016-2020<br>
 Radio producer
 
+Nadia Cota<br>
+2013-2017
+
 Taylor Gottbetter<br>
 2018-2020
 
