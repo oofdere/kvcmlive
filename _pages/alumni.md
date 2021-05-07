@@ -15,6 +15,11 @@ Krystal Hill<br>
 2013-2015<br>
 Currently: Producer - The Steve Harvey Morning Show; Podcast Producer - Black Love Inc.
 
+Bowie Starr<br>
+2016-2018<br>
+Current: Sundance & Outfest Screening Film Producer<br>
+Past (LAVC): Broadcasting Club President (ASU Club of the Year, 2017), Director of Programming & Co-Host of "Stone & Steel Radio Show"
+
 Michael L Straus (Mike on the Mike)<br>
 1990-1992<br>
 Host of the OG GM Adventures on YouTube, part of the Legion of Myth, and working screenwriter
