@@ -57,68 +57,78 @@ sidebar:
       11PM | [Tony Chauncey Show](/shows/tonychauncey)
   - title: Friday
     text: >- 
-      12AM | [The Good Foot](/shows/goodfoot/)
+      12AM | [News & Views](/shows/newsandviews)
   
       01AM | [Music Motif](/shows/musicmotif/)
   
-      02AM | [Audio Playground](/shows/audioplayground/)
+      02AM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
   
-      03AM | [Audio Playground Unplugged](/shows/audioplayground/)
+      03AM | [AstroGuides Intuition Hour](/shows/astroguides/)
   
       04AM | [Rhythm & Views](/shows/rhythmandviews/)
 
-      05AM | Live at Five
+      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
 
       06AM | [News & Views](/shows/newsandviews)
 
       07AM | [Sports & Views](/shows/sportsviews)
 
-      08AM | [Audio Playground](/shows/audioplayground/)
+      08AM | [Audio Playground Unplugged](/shows/audioplayground/)
 
-      09AM | [Audio Playground Unplugged](/shows/audioplayground/)
+      09AM | [News & Views](/shows/newsandviews)
 
-      10AM | Music Mix
+      10AM | [The Collective](/shows/collective/)
+      
+      11AM | [Health & Wellness]
+      
+      12PM | Jacob Live
 
-      02PM | [Audio Playground](/shows/audioplayground/)
+      01PM | Miguel Live
 
-      03PM | [Audio Playground Unplugged](/shows/audioplayground/)
+      02PM | Sean Live
+
+      03PM | DJ Snapz Live
 
       04PM | [Rhythm & Views](/shows/rhythmandviews/)
 
-      05PM | Live at Five
+      06PM | [Music Motif](/shows/musicmotif/)
 
-      06PM | [News & Views](/shows/newsandviews)
+      07PM | [Stereo Deli](/shows/stereodeli/
 
-      07PM | [Sports & Views](/shows/sportsviews)
+      08PM | [The Good Foot](/shows/goodfoot/)
 
-      08PM | [Multitrack Revolution](/shows/mtr)
+      09PM | Lee Live
 
-      09PM | [Tony Chauncey Show](/shows/tonychauncey)
+      10PM | Shana Live
 
-      10PM | [Stereo Deli](/shows/stereodeli)
-
-      11PM | [Musicology 101](/shows/musicology101)
+      11PM | Alex Live
   - title: Saturday
     text: >-
-      12AM | [Grateful Dead Hour](/shows/gratefuldeadhour/)
-      
-      01AM | [The Ageless Wisdom](/shows/agelesswisdom/)
+      12AM | [Kpop Konnection](/shows/kpopkonnection/)
 
-      02AM | [Saturday Morning Jazz](/shows/saturdaymorningjazz)
+      02AM | [Grateful Dead Hour](/shows/gratefuldeadhour/)
       
-      05AM | [Surf's Up](/shows/surfsup/)
+      03AM | [The Ageless Wisdom](/shows/agelesswisdom/)
+      
+      04AM | [Saturday Jazz]
+      
+      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/
+      
+      06AM | [Breakfast With The Beatles](/shows/bwtb/)
+      
+      08AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
+      
+      09AM | [News & Views](/shows/newsandviews)
+      
+      10AM | [The Collective](/shows/collective/)
+      
+      11AM | [Lloyd's Desk]
+      
+      12PM | [Roundtable Session]
 
-      06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
-      
-      09AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
-      
-      10AM | [Breakfast With The Beatles](/shows/bwtb/)
-      
-      12PM | Roundtable Session Live
+      02PM | [Radios Magical]
 
-      02PM | Radios Magical
-
-      03PM | Lloyd's Desk
+      03PM | [Movie Asylum]
 
       04PM | [Audio Issues Live](/shows/audioissues/)
 
@@ -130,30 +140,36 @@ sidebar:
       
   - title: Sunday  
     text: >-
-      12AM | [Grateful Dead Hour](/shows/gratefuldeadhour/)
+      12AM | [Kpop Konnection](/shows/kpopkonnection/)
+
+      02AM | [Grateful Dead Hour](/shows/gratefuldeadhour/)
       
-      01AM | [The Ageless Wisdom](/shows/agelesswisdom/)
-
-      02AM | [Sunday Morning Blues](/shows/sundaymorningblues)
+      03AM | [The Ageless Wisdom](/shows/agelesswisdom/)
       
-      05AM | [Surf's Up](/shows/surfsup/)
-
-      06AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+      04AM | [Saturday Jazz]
       
-      09AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
+      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/
       
-      10AM | [Breakfast With The Beatles](/shows/bwtb/)
+      06AM | [Breakfast With The Beatles](/shows/bwtb/)
+      
+      08AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
+      
+      09AM | [News & Views](/shows/newsandviews)
+      
+      10AM | [Comix Relief]
+      
+      11AM | 
 
-      12PM | Real Talk Live
+      12PM | [Real Talk](/shows/realtalk/)
 
-      02PM | The Sunday Recap Live
+      02PM | [The Sunday Recap]
 
-      04PM | [Valley Girls Live](/shows/valleygirls)
+      04PM | [Valley Girls](/shows/valleygirls)
 
-      06PM | Soulful Hearts Live
+      06PM | Soulful Hearts
 
-      08PM | [Stereo Deli Show Live](/shows/stereodeli)
+      08PM | [Stereo Deli Show](/shows/stereodeli)
 
-      10PM | [Multitrack Revolution Live](/shows/mtr)
+      10PM | [Multitrack Revolution](/shows/mtr)
       
 ---
