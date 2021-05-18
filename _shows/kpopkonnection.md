@@ -10,4 +10,4 @@ sidebar:
     text: "Kpop"
 ---
 
-Kpop Konnection connecting the World to Korean Entertainment. From music to movies every Saturday 12AM to 2AM with your Mixologist GeGe.
+Kpop Konnection connecting the World to Korean Entertainment. From music to movies every Saturday 12AM to 2AM with your Mixologist GeGe. 
