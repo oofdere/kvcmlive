@@ -24,6 +24,17 @@ Michael L Straus (Mike on the Mike)<br>
 1990-1992<br>
 Host of the OG GM Adventures on YouTube, part of the Legion of Myth, and working screenwriter
 
+Lynnette (DJ Snoopie) Velasquez<br>
+I was board operator @ NBC Sports Radio for a short term in 2017. Currently co-owner of Raw Suga Shack Studios recording complex in Torrance, CA. This is the original recording studio of Eazy-E & NWA.
+
+Enrie Amezcua<br>
+Morning Newscast Producer (TV)
+
+Nathan (Big Nate) Martin<br>
+2008-2010<br>
+LAVC Broadcasting TV Studio Director - 2007-2012<br>
+Former KVCM President, Broadcasting Club President, KVCM Radio DJ
+
 Teri Pierce (Miss T)<br>
 2016-2018<br>
 Host, DJ, Production
@@ -56,5 +67,7 @@ Freelance editor, podcast host
 
 James Lambert<br>
 2018-2020
+
+Biajani Marrero
 
 To reach any of our KVCM alumni send an email to <a href="mailto:kvcm@lavc.edu">kvcm@lavc.edu</a> with the alum's name in the subject line.
