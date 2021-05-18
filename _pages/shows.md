@@ -6,8 +6,57 @@ collection: shows
 entries_layout: grid
 classes: wide
 sidebar: 
-  - title: Monday-Friday
+  - title: Monday-Thursday
     text: >- # this means to ignore newlines until "baseurl:"  
+      12AM | [News & Views](/shows/newsandviews)
+  
+      01AM | [Music Motif](/shows/musicmotif/)
+  
+      02AM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
+  
+      03AM | [AstroGuides Intuition Hour](/shows/astroguides/)
+  
+      04AM | [Rhythm & Views](/shows/rhythmandviews/)
+
+      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+
+      06AM | [News & Views](/shows/newsandviews)
+
+      07AM | [Sports & Views](/shows/sportsviews)
+
+      08AM | [Audio Playground Unplugged](/shows/audioplayground/)
+
+      09AM | [News & Views](/shows/newsandviews)
+
+      10AM | [The Collective](/shows/collective/)
+      
+      11AM | [Tony Chauncey Show](/shows/tonychauncey)
+      
+      12PM | [News & Views](/shows/newsandviews)
+
+      01PM | [Music Motif](/shows/musicmotif/)
+
+      02PM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
+
+      03PM | [AstroGuides Intuition Hour](/shows/astroguides/)
+
+      04PM | [Rhythm & Views](/shows/rhythmandviews/)
+
+      05PM | Live at Five
+
+      06PM | [News & Views](/shows/newsandviews)
+
+      07PM | [Sports & Views](/shows/sportsviews)
+
+      08PM | [Audio Playground](/shows/audioplayground/)
+
+      09PM | [News & Views](/shows/newsandviews)
+
+      10PM | [The Collective](/shows/collective/)
+
+      11PM | [Tony Chauncey Show](/shows/tonychauncey)
+  - title: Friday
+    text: >- 
       12AM | [The Good Foot](/shows/goodfoot/)
   
       01AM | [Music Motif](/shows/musicmotif/)
