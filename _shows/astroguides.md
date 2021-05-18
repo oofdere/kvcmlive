@@ -1,5 +1,5 @@
 ---
-title: "The Acoustic Sunrise"
+title: "AstroGuides Intuition Hour"
 excerpt: ""
 header:
   teaser: "/assets/images/AstroGuides.png"
