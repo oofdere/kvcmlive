@@ -69,13 +69,13 @@ sidebar:
 
       05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
 
-      06AM | [News & Views](/shows/newsandviews)
+      06AM | [News & Views](/shows/newsandviews/)
 
-      07AM | [Sports & Views](/shows/sportsviews)
+      07AM | [Sports & Views](/shows/sportsviews/)
 
       08AM | [Audio Playground Unplugged](/shows/audioplayground/)
 
-      09AM | [News & Views](/shows/newsandviews)
+      09AM | [News & Views](/shows/newsandviews/)
 
       10AM | [The Collective](/shows/collective/)
       
@@ -99,7 +99,7 @@ sidebar:
 
       09PM | Lee Live
 
-      10PM | Shana Live
+      10PM | Lady Just Live
 
       11PM | Alex Live
   - title: Saturday
@@ -154,21 +154,21 @@ sidebar:
       
       08AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
-      09AM | [News & Views](/shows/newsandviews)
+      09AM | [News & Views](/shows/newsandviews/)
       
       10AM | [Comix Relief]
       
-      11AM | 
+      11AM | Roman Live
 
       12PM | [Real Talk](/shows/realtalk/)
 
       02PM | [The Sunday Recap]
 
-      04PM | [Valley Girls](/shows/valleygirls)
+      04PM | [Valley Girls](/shows/valleygirls/)
 
       06PM | Soulful Hearts
 
-      08PM | [Stereo Deli Show](/shows/stereodeli)
+      08PM | [Stereo Deli Show](/shows/stereodeli/)
 
       10PM | [Multitrack Revolution](/shows/mtr)
       
