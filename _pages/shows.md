@@ -93,7 +93,7 @@ sidebar:
 
       06PM | [Music Motif](/shows/musicmotif/)
 
-      07PM | [Stereo Deli](/shows/stereodeli/
+      07PM | [Stereo Deli](/shows/stereodeli/)
 
       08PM | [The Good Foot](/shows/goodfoot/)
 
@@ -112,7 +112,7 @@ sidebar:
       
       04AM | [Saturday Jazz]
       
-      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/
+      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
       
       06AM | [Breakfast With The Beatles](/shows/bwtb/)
       
@@ -148,7 +148,7 @@ sidebar:
       
       04AM | [Saturday Jazz]
       
-      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/
+      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
       
       06AM | [Breakfast With The Beatles](/shows/bwtb/)
       
