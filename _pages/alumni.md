@@ -35,6 +35,21 @@ Nathan (Big Nate) Martin<br>
 LAVC Broadcasting TV Studio Director - 2007-2012<br>
 Former KVCM President, Broadcasting Club President, KVCM Radio DJ
 
+Mustafa Womack (DJ Stafa Staf)<br>
+2010-2011<br>
+Writer-producer six string prod. for Bobby Womack, Writer At Bindelari Music
+
+Fuel<br>
+2016-2019<br>
+Currently Owner/CEO of Fired Up Broadcasting and Entertainment studio in North Hollywood, CA.
+
+DJ Shortie the Latin Trouble Maker<br>
+2012-2014<br>
+Formerly: KVCM Studio and Production Manager, Editor, and Co-Host
+
+Biajani Sheena Marrero<br>
+I work in Film (1st A.D.) and Post Sound (Coordinator)
+
 Teri Pierce (Miss T)<br>
 2016-2018<br>
 Host, DJ, Production
@@ -67,7 +82,5 @@ Freelance editor, podcast host
 
 James Lambert<br>
 2018-2020
-
-Biajani Marrero
 
 To reach any of our KVCM alumni send an email to <a href="mailto:kvcm@lavc.edu">kvcm@lavc.edu</a> with the alum's name in the subject line.
