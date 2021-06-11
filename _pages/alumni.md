@@ -7,6 +7,10 @@ Welcome to our Alumni page of student DJs, station staff, and club officers who 
 
 If you are a KVCM Alumni and had a radio show, staff position, were part of the Broadcasting club, and/or are a radio broadcasting department graduate, please fill out this <a href="https://forms.gle/m118i8NLmyNSYZ9f8">short form</a> so we can acknowledge your contributions.
 
+Bosco Bonetti<br>
+2019-2021<br>
+Co-Founder of KVCM.Live, Operations Manager, Creative Director, and Host
+
 Tricia Cruz<br>
 2017<br>
 iHeart, Playboy Radio and KNX News Radio
