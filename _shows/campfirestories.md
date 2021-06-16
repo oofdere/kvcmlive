@@ -10,4 +10,4 @@ sidebar:
     text: "Storytelling, Horror"
 ---
 
-The Ageless Wisdom Podcast with Michael Benner is about personal development, emotional intelligence, and mindfulness and is heard weekends at noon on KVCM as the leadoff to our Podcasting block of programming.
+Everyone has skeletons in their closet, so join me as I talk about all of the skeletons in Los Angeles. Let's explore the horror of LA's past every Sunday night at 8PM.
