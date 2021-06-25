@@ -2,59 +2,59 @@
     "name": "kvcm.live",
     "short_name": "kvcm.live",
     "icons": [
-        {
-            "src": "https://kvcm.live/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "https://kvcm.live/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
+      {
+        "src": "https://kvcm.live/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://kvcm.live/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#000000",
+    "theme_color": "#0d261a",
+    "background_color": "#7fff6a",
     "display": "standalone",
     "start_url": "https://kvcm.live/",
     "url": "https://kvcm.live",
-    "lang": "English",
+    "lang": "en",
     "screenshots": [
-        {
-            "src": "/assets/desktop.png",
-            "sizes": "1280x800",
-            "type": "image/png"
-        },
-        {
-            "src": "/assets/mobile.png",
-            "sizes": "750x1334",
-            "type": "image/png"
-        }
+      {
+        "src": "/assets/desktop.png",
+        "sizes": "1280x800",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/mobile.png",
+        "sizes": "750x1334",
+        "type": "image/png"
+      }
     ],
     "orientation": "any",
     "scope": "https://kvcm.live/",
     "categories": [
-        "education",
-        "entertainment",
-        "music",
-        "news"
+      "education",
+      "entertainment",
+      "music",
+      "news"
     ],
     "shortcuts": [
-        {
-            "name": "Listen Live",
-            "url": "/"
-        },
-        {
-            "name": "Shows/Schedule",
-            "url": "/shows"
-        },
-        {
-            "name": "Podcasts",
-            "url": "/podcasts"
-        },
-        {
-            "name": "Events",
-            "url": "/events"
-        }
+      {
+        "name": "Listen Live",
+        "url": "/"
+      },
+      {
+        "name": "Shows/Schedule",
+        "url": "/shows"
+      },
+      {
+        "name": "Podcasts",
+        "url": "/podcasts"
+      },
+      {
+        "name": "Events",
+        "url": "/events"
+      }
     ]
-}
+  }
