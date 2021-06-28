@@ -10,4 +10,4 @@ sidebar:
     text: "Talk, Eclectic"
 ---
 
-Three topics a week, ranging anywhere from bleu cheese to children's card games, and not to forget, a disturbing amount of The Smiths. The perfect way to end a busy week and start a busy weekend. Knock on Wood is your new go-to for assorted tunes and laid back moods.
+New topics and themes weekly, ranging anywhere from Japanese men in rubber suits to the mysteries of Blockbuster Video. With his carefree and personal attitude, Roman will drag you into a conversation you know nothing about and make you remember things you totally forgot existed. Knock on Wood is THE new go-to for those interested in things like breathing, eating, taxes, and dying.
